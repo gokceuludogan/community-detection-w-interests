@@ -12,3 +12,16 @@
 
 * Personalized advanced search for Twitter
 
+
+#### [Enhanced Twitter Community Detection using Node Content and Attributes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9509873)
+
+
+#### [Falling into the Echo Chamber: The Italian Vaccination Debate on Twitter](https://ojs.aaai.org/index.php/ICWSM/article/view/7285/7139)
+
+
+#### [User community detection via embedding of social network structure and temporal content](https://reader.elsevier.com/reader/sd/pii/S030645731830997X?token=E2055D2953EDDCAF5028FEC3FA6AA47EA977FB4597F8D83DC4E24D032926735B0D71BB0063A1586EB18D462A4CFFC492&originRegion=eu-west-1&originCreation=20211115123109)
+
+
+
+#### [Interest Representation, Enrichment, Dynamics, and Propagation: A Study of the Synergetic Effect of Different User Modeling Dimensions for Personalized Recommendations on Twitter](https://link.springer.com/chapter/10.1007/978-3-319-49004-5_32)
+
