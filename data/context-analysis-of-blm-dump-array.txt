@@ -1,0 +1,3417 @@
+Total 45671 tweets are analyzed between 2021-05-28T18:09:44.000Z and 2021-06-18T11:39:46.000Z
+Top ranked contexts are as below.
+George Floyd: 4324
+Joe Biden: 3598
+Juneteenth: 3276
+Entertainment: 2479
+Online Site: 2049
+Services: 2006
+COVID-19: 2006
+Home & family: 1941
+Donald Trump: 1736
+TV/Movies Related: 1677
+International Pride Day: 1600
+Business and finance: 1292
+UEFA European Championship: 1119
+Business & finance: 834
+Personal finance: 804
+Koh-Lanta: 764
+NBA Basketball: 750
+NBA: 687
+Visual arts: 633
+MSNBC: 595
+Facebook: 581
+Financial services: 575
+Technology: 570
+CNN: 554
+Food: 513
+Basketball: 512
+Cryptocurrencies: 504
+Breonna Taylor: 497
+Rap: 492
+Tiktok: 480
+Kamala Harris: 464
+Fashion: 462
+England: 459
+Government/Education: 448
+Twitter: 428
+Retail: 401
+United Nations: 398
+Alexandria Ocasio-Cortez: 394
+Fox News: 393
+Wellness and health: 389
+Koh-Lanta : Cambodge: 382
+Non-profit: 381
+Sports: 381
+Nancy Pelosi: 370
+Europe - Soccer: 365
+PlayStation: 362
+NFL Football: 357
+BBC: 335
+United States Congress: 335
+Barack Obama: 326
+International - Soccer: 324
+Memorial Day : 323
+Mental Wellness: 322
+Instagram: 311
+Bitcoin cryptocurrency: 305
+Vladimir Putin: 304
+Gareth Southgate: 304
+History: 303
+Live: NBA Basketball: 294
+Travel: 293
+NFL: 290
+Online: 288
+Fashion Novelty: 276
+Xbox: 275
+Fashion Tags: 273
+Video Games: 268
+Tiffany Haddish: 261
+Soccer: 260
+Joe Manchin: 260
+Beauty: 248
+Martin Luther King Jr.: 244
+Twitch: 242
+Investing: 229
+Mental Health: 228
+Cory Booker: 222
+Apple: 221
+Drinks: 221
+The New York Times: 220
+K-pop: 220
+Futebol NFL: 209
+Fútbol Americano de la NFL: 209
+Amazon: 207
+Cuisines: 201
+American football: 200
+Adam Schiff: 200
+Grey's Anatomy: 193
+Entrepreneurship: 192
+Documentary films: 190
+Tulsi Gabbard: 188
+Generic Drinks: 187
+Photography: 186
+MLB Baseball: 185
+MLB: 184
+Small business: 183
+England vs Croatia: 183
+Democratic National Committee: 182
+Boris Johnson: 180
+Rachel Maddow: 178
+David Lammy: 176
+Pop: 174
+Generic Food: 173
+Naomi Osaka: 172
+Federal Bureau of Investigation: 172
+Pets: 160
+Fitness: 158
+Organic: 156
+YouTube: 155
+Online Services: 152
+Combat sports: 151
+NBC News: 150
+ABC News: 149
+Veganism: 145
+Marvel Universe: 142
+General Fashion: 142
+Google : 141
+New York City Police Department: 140
+LeBron James: 140
+Cash App: 138
+Drawing & illustration: 138
+The White House: 135
+Careers: 134
+General Travel: 133
+Dia de la Independencia (Grito de Dolores) : 132
+United States Senate: 129
+Google brand conversation: 127
+Venue/Theatre: 126
+Stocks & indices: 126
+BLACKPINK: 126
+2021 French Open: 126
+Graphic design: 124
+CPG: 124
+PlayStation 5: 124
+Exercises: 123
+Science: 123
+BBC News: 121
+R&B and soul: 121
+Dining: 117
+BTS: 114
+College life: 113
+Baseball: 113
+AMC Theatres: 112
+Dead by Daylight: 110
+Priti Patel: 110
+Family and life stages: 109
+The Washington Post: 106
+Beauty Novelty: 106
+PlayStation 4: 106
+CBS: 105
+Boxing: 105
+Education: 104
+Tucker Carlson: 102
+Father's Day : 102
+Gavin Newsom: 100
+Greta Thunberg: 99
+Design: 98
+Travel Actions: 98
+Discord: 96
+Transportation: 96
+QSR: 96
+Cats: 96
+UEFA Champions League: 96
+One Direction: 92
+CBS News: 91
+Computer programming: 90
+Michael Holding: 90
+CNBC: 89
+Society: 88
+Destinations: 85
+Marketing: 84
+Premier League: 84
+Bernie Sanders: 84
+The Wall Street Journal: 83
+Startups: 83
+Mobile: 82
+Station 19: 82
+E3 2021: 82
+Nature: 81
+Kasie Hunt: 80
+Self-care: 80
+Dogecoin cryptocurrency: 79
+NHL: 79
+NPR: 78
+Ro Khanna: 78
+Los Angeles Lakers: 78
+Comics: 76
+RuPaul's Drag Race: 75
+New York Post: 75
+Investors and patents: 75
+Kardeslerim: 74
+Gary Lineker: 74
+Marriage: 73
+Mindful wellness: 73
+Rock: 72
+PayPal: 72
+Marcus Rashford: 72
+Chris Hayes: 72
+Supreme Court of the United States: 71
+Action & adventure films: 71
+Netflix: 70
+Utah Jazz: 70
+Education Related: 69
+Beyoncé: 68
+Raheem Sterling: 68
+Racing: 68
+Diane Abbott: 68
+HuffPost: 67
+BAFTAs 2021: 67
+The 93rd Academy Awards 2021: 66
+The 93rd Academy Awards 2021 - en, mena: 66
+Leadership: 66
+Tabletop gaming: 65
+Apparel/Accessories: 65
+Elijah McClain: 65
+5G: 65
+Artificial intelligence: 64
+Stacey Abrams: 64
+Cooking: 64
+Apex Legends: 64
+Tariq Nasheed: 63
+Anime: 63
+Elon Musk: 63
+Coffee: 62
+Tokyo 2020 Summer Olympics: 61
+Painting: 61
+Hillary Clinton: 60
+Colin Kaepernick: 58
+Yahoo!: 58
+Behavior around fashion: 58
+Black Panther: 56
+Spotify: 56
+NASCAR: 56
+Cartoons: 56
+Drama films: 55
+SoundCloud: 55
+Friends: 55
+Traditional games: 54
+Drake: 54
+Oprah: 54
+Malcolm x: 54
+Amnesty International: 54
+Automotive: 53
+American Idol: 53
+Republican National Committee: 53
+Cricket: 52
+Tupac Shakur: 52
+Ilhan Omar: 52
+Lakers at Suns: 52
+Energy: 51
+Makeup: 51
+Gas/Oil: 50
+Candace Owens: 50
+NHL Hockey: 50
+Justin Trudeau: 50
+Tom Hanks: 50
+Suns at Lakers: 50
+Hockey: 49
+Online education: 48
+Lori Lightfoot: 48
+Fast food: 48
+Teskilat: 48
+Question Time: 47
+Mobile gaming: 47
+Travel novelty: 47
+US Central Intelligence Agency: 47
+BAFTA TV Awards 2021: 47
+Nelson Mandela: 46
+Chuck Schumer: 46
+Meghan, Duchess of Sussex: 46
+Etsy: 46
+BP: 45
+DC Extended Universe: 45
+Tops: 45
+Venmo: 45
+Auto: 45
+Auto Manufacturer: 45
+Live: The French Open Tennis: 45
+Chelsea FC: 44
+Sports/Outdoor: 44
+Hospitality: 44
+Don Lemon: 44
+Barclays Premier League Football: 44
+Tim Pool: 44
+Science News: 44
+Romelu Lukaku: 44
+Sadiq Khan: 44
+PC gaming: 44
+Belgium vs Russia: 44
+Manchester City vs Chelsea: 43
+International Clubs - Soccer: 43
+Pope Francis: 42
+Women in tech: 42
+The Real Housewives of New York City: 42
+English Premier League Soccer: 42
+Barclays Premier League Soccer: 42
+Kanye West: 42
+UEFA Champions League Football: 42
+UEFA Champions League: TSG 1899 Hoffenheim-Liverpool FC: 42
+Harvard University: 42
+Hair care: 41
+Fitness Novelty: 41
+Fitness Hashtags: 41
+Traffic: 41
+WWE: 41
+Sky News: 41
+2017 French Open Tennis: 41
+Nigel Farage: 40
+Dogs: 40
+Greg Abbott: 40
+Travel photography: 40
+Cybersecurity: 40
+Ted Cruz: 40
+Rama Yade: 40
+Ethereum cryptocurrency: 39
+Formula 1: 39
+The Huffington Post: 38
+Electronic music: 38
+United States House of Representatives: 38
+Binance: 38
+Andrew Yang: 38
+Benjamin Netanyahu: 38
+Lil Nas X: 38
+Knicks at Hawks: 38
+Scotland: 37
+Dance: 37
+Fourth of July : 37
+Dads: 37
+Channel 4 News: 37
+Beverage: 36
+Apple - iPhone: 36
+Vaping: 36
+Floyd Mayweather: 36
+Kobe Bryant: 36
+Brett Kavanaugh: 36
+Karl Marx: 36
+Oliver Dowden: 36
+Real estate: 35
+Multi-Purpose Department: 35
+Retirement planning: 35
+Classic rock: 35
+Recruitment: 35
+MI6 (Secret Intelligence Service): 35
+The Associated Press: 35
+Piers Morgan: 34
+Saving and finance: 34
+UEFA Champions League Soccer: 34
+Kevin McCarthy: 34
+NBA 2K: 34
+India: 33
+Physical Wellness: 33
+Fashion Brand: 33
+Horses: 33
+Belgium: 33
+Microsoft: 33
+Reggae: 33
+Horoscope: 32
+Dresses: 32
+Aposto!: 32
+Aerospace: 32
+Christmas: 32
+Apple Music: 32
+The View: 32
+Elizabeth Warren: 32
+Snacks: 32
+GB News: 31
+Grocery/Convenience: 31
+Space: 31
+Web development: 31
+Floyd Mayweather vs Logan Paul: 31
+Draughts: 30
+Mitch McConnell: 30
+Halloween 2019: 30
+North Atlantic Treaty Organization: 30
+Sean Hannity: 30
+Fortnite: 30
+Eric Garcetti: 30
+Good Morning Britain: 30
+Al Punto: 30
+Banking: 29
+New York Knicks: 29
+Call of Duty: 29
+USA Today: 29
+Breitbart News: 29
+Andy Ngo: 29
+Filmmaking: 28
+Musicals: 28
+Cuéntame Cómo Pasó: 28
+The Guardian: 28
+Billboard: 28
+Disney: 28
+Crowdfunding: 28
+NASCAR Racing: 28
+Tyler Perry: 28
+Ron DeSantis: 28
+Rashida Tlaib: 28
+Sci-fi & fantasy films: 28
+Web design: 28
+Nike: 28
+Politics Live: 28
+McDonald's: 27
+National Rifle Association: 27
+Linux: 27
+Loki: 27
+Blockchain: 27
+Android: 27
+Beer: 27
+Pride: 27
+Saturday Night Live: 27
+Government: 26
+V (BTS): 26
+ACLU: 26
+Karen Bass: 26
+Maxine Waters: 26
+Financial planning: 26
+Information security: 26
+Kyrsten Sinema: 26
+Lewis Hamilton: 26
+DaBaby: 26
+Kyrie Irving: 26
+Keir Starmer: 26
+Al Jazeera: 25
+Telco: 25
+EA Sports NHL: 25
+Meditation: 25
+Insurance: 25
+Walmart: 25
+Comedy films: 25
+Formula One Racing: 25
+Alternative rock: 24
+HBO: 24
+Women Who Code: 24
+Writing: 24
+Body Art: 24
+Christopher Wray: 24
+House: 24
+Grey's Anatomy : Station 19: 24
+Fashion accessories: 24
+Street art: 24
+Simone Biles: 24
+Rio Ferdinand: 24
+Bill Maher: 24
+Joe Rogan: 24
+Laurence Fox: 24
+Veterans: 24
+Dionne Warwick: 24
+Manchester United: 24
+Russia: 24
+Apple - iOS: 24
+Tattoos: 23
+Hybrid and electric vehicles: 23
+Taylor Swift: 23
+San Diego Padres: 23
+Internet of things: 23
+Furries: 23
+Car Rental/Sharing: 23
+Drink Novelty: 23
+Joy Reid: 23
+WWE Monday Night RAW: 23
+In The Heights: 22
+Michael Jackson: 22
+Saving money: 22
+eBay: 22
+Jazz: 22
+SpaceX: 22
+ABC: 22
+Air travel: 22
+Mike Pence: 22
+Val Demings: 22
+Cocktails: 22
+Enterprise software: 22
+National Health Service: 22
+John Cardillo: 22
+US Military: 22
+Paul Joseph Watson: 22
+Luxury Cars: 22
+ESPN: 22
+Glenn Beck: 22
+Ian Wright: 22
+Planned Parenthood: 21
+Outdoor Activities: 21
+Snapchat: 21
+Genealogy: 21
+Airline: 21
+Meals: 21
+Jill Biden: 21
+Reddit: 21
+Food Novelty: 21
+Food Hashtags: 21
+Doctor Who: 21
+Ben Shapiro: 21
+Narendra Modi: 20
+Coca-Cola: 20
+Fiction literature: 20
+Barbara Lee: 20
+Community Health: 20
+B2B: 20
+Cell Phones: 20
+Marsha P. Johnson: 20
+Biology: 20
+Jimin: 20
+Kevin Hart: 20
+Sarah Huckabee Sanders: 20
+Brian Kemp: 20
+Ariana Grande: 20
+The Walking Dead: 20
+IndyCar Racing: 20
+John Barnes: 20
+Andres Manuel Lopez Obrador: 20
+MotoGP: 20
+Azerbaijan Grand Prix: 20
+Nets at Celtics: 20
+UFC: 19
+Water: 19
+US Department of State: 19
+Uber: 19
+The Chi: 19
+INDYCAR: 19
+Britain's Got Talent: 19
+Fórmula 1: 19
+Candy/Gum: 18
+Ted Wheeler: 18
+Mousquetaires: 18
+The Musketeers: 18
+FOX Business: 18
+Sculpting: 18
+Home and garden: 18
+Food experience: 18
+Jim Jordan: 18
+Jack Dorsey: 18
+Final Fantasy: 18
+Bill Cosby: 18
+Wizkid: 18
+Ben & Jerry's: 18
+Tesla Motors: 18
+Last Week Tonight With John Oliver: 18
+John Oliver: 18
+FA Cup Soccer: 18
+Lamar Smith: 18
+WWE Friday Night SmackDown: 18
+Katherine Clark: 18
+Craig Melvin: 18
+Logan Paul: 18
+The British Academy Television Awards: 18
+Stray Kids: 18
+Stevie Wonder: 18
+A Question of Sport: 17
+Ada cryptocurrency: 17
+Hotel/Motel: 17
+Drink Experience: 17
+EDM: 17
+Gymnastics: 17
+Merrick Garland: 17
+Rugby: 17
+Los Angeles Times: 17
+Meet the Press: 17
+ITV News and Weather: 17
+Pharma: 16
+Soda: 16
+Harry Kane: 16
+Country music: 16
+Clippers at Jazz: 16
+Roblox: 16
+Model figures: 16
+Philosophy: 16
+Starbucks: 16
+Google - AI: 16
+Nicki Minaj: 16
+Common Medication: 16
+The New Yorker: 16
+Men's Fashion: 16
+Andrew Cuomo: 16
+The American Legion: 16
+Emmanuel Macron: 16
+Horror films: 16
+Clubhouse: 16
+BTS ARMY: 16
+Che Guevara: 16
+Lara Trump: 16
+Martina Navratilova: 16
+Pose: 16
+Tom Cotton: 16
+Beginning investing: 16
+Viktor Orban: 16
+Nets at Bucks: 16
+Britain's Got Talent (TV3): 16
+Ellie Kemper: 16
+JUNO Awards 2021: 16
+Bob Casey: 16
+Live: Formula 1 Motor Racing: 16
+Cruella: 16
+Jazz at Grizzlies: 16
+Amazon Prime Day 2021: 15
+Live: The Ultimate Fighting Championship: 15
+Chocolate: 15
+Data science: 15
+Health & wellness books: 15
+France: 15
+Minecraft: 15
+Croatia: 15
+Breakfast: 15
+Venture capital: 14
+Urbano: 14
+Trap: 14
+Home: 14
+Andrew Neil: 14
+Cristiano Ronaldo: 14
+Walgreens: 14
+BET: 14
+Cosplay: 14
+Libraries: 14
+Charlie Kirk: 14
+Remote work: 14
+Financial Technology: 14
+Sci-fi & fantasy books: 14
+Scorpio: 14
+Soledad O'Brien: 14
+LinkedIn: 14
+Alexei Navalny: 14
+R. Kelly: 14
+Ron Johnson: 14
+Boston Celtics: 14
+Tyrone Mings: 14
+Lorde: 14
+Ice cream: 14
+Jair Bolsonaro: 14
+Jonathan Capehart: 14
+Daniel Crenshaw: 14
+Moms: 14
+Travel media: 14
+Louie Gohmert: 14
+Stand Up to Cancer: 14
+Anderson Cooper: 14
+Andrew Bridgen: 14
+Today: 14
+Matt Gaetz: 14
+John Legend: 14
+Christian Eriksen: 14
+Ali Velshi: 14
+Jill Stein: 14
+FIFA: 14
+Lindsey Graham: 14
+Bob Marley: 14
+Bubba Wallace: 14
+Azerbaijan Grand Prix 2021: 14
+Manchester City: 14
+Hawks at Knicks: 14
+GP do Azerbaijão: 14
+Serena Williams: 14
+Pfizer: 13
+Animated films: 13
+NASA: 13
+Scorpion: 13
+Body Positivity: 13
+JavaScript: 13
+Weight training: 13
+Pizza: 13
+Caricature and portrait: 13
+Billie Eilish: 12
+Verizon: 12
+Michelle Obama: 12
+Bishop Talbert Swan: 12
+Venus Williams: 12
+Hannity: 12
+Mike Krzyzewski: 12
+Xiao Zhan: 12
+Abraham Lincoln: 12
+Birdwatching: 12
+Extended Sizing: 12
+Resident Evil: 12
+Rahm Emanuel: 12
+John Lennon: 12
+Kim Kardashian: 12
+Activision: 12
+Electronic Arts (EA): 12
+Doug Ford: 12
+DMX: 12
+Musical instruments: 12
+Kodak Black: 12
+Phoenix Suns: 12
+Donald Trump Jr.: 12
+Jay Z: 12
+Jungkook: 12
+George Soros: 12
+Justin Bieber: 12
+Paul Pogba: 12
+Tacos: 12
+Angelina Jolie: 12
+Wine: 12
+West Indies: 12
+SUVs: 12
+Dwayne Johnson: 12
+SEVENTEEN: 12
+2022 FIFA World Cup: 12
+Migos: 12
+My Hero Academia: 12
+Nightlife: 12
+Casual: 12
+Mike Tyson: 12
+Donuts: 12
+All Elite Wrestling: 12
+Lil Baby: 12
+Dawn Butler: 12
+William Barr: 12
+Diana Ross: 12
+Gwen Stefani: 12
+Dave Chappelle: 12
+Handbags: 12
+Gillian Keegan: 12
+Malcolm Johnson: 12
+Wu-Tang Clan: 12
+Jeremy Corbyn: 12
+Skittles: 12
+Max Verstappen: 12
+J. Cole: 12
+Cyclisme : Tour d'Italie 2017: 12
+Ballet: 11
+New York Yankees: 11
+Maya Angelou: 11
+Liquor and spirits: 11
+Drones: 11
+The Daily Show with Trevor Noah: 11
+Fruits: 11
+Gambling: 11
+Denmark: 11
+The Atlantic: 11
+The Daily Beast: 11
+Fiverr: 11
+France vs Germany: 11
+Astrology: 11
+Casinos: 11
+BBC iPlayer: 11
+Happy Hour: 11
+Recipes: 11
+Blackpink: Light Up the Sky: 11
+Denmark vs Finland: 11
+Food inspiration: 11
+All Elite Wrestling: Dynamite: 11
+Babies and toddlers: 11
+Rudy Giuliani: 11
+Burgers: 11
+Chick-fil-A: 11
+Arsenal: 10
+Copa América: 10
+Paul Gosar: 10
+Tim Scott: 10
+Weddings: 10
+Los Angeles Clippers: 10
+The Daily Show: 10
+Arts and Crafts: 10
+Rihanna: 10
+Megan Rapinoe: 10
+Jewelry: 10
+The Young and the Restless: 10
+(G)I-DLE: 10
+Brawl Stars: 10
+McDonald's BTS: 10
+Ice Cube: 10
+Elden Ring: 10
+Pork recipes: 10
+LISA: 10
+Inside the NBA: 10
+Wales: 10
+Yeonjun: 10
+Dan Bongino: 10
+Ligue 1 Soccer: 10
+Paris Saint-Germain: 10
+The Daily Wire: 10
+Vegetables: 10
+Stephen A. Smith: 10
+Nina Turner: 10
+Theme parks: 10
+Baking: 10
+Desserts and baked goods: 10
+Sweets & desserts: 10
+Among Us: 10
+Jake Paul: 10
+Jeff Bezos: 10
+Ayanna Pressley: 10
+Skip Bayless: 10
+N`Golo Kante: 10
+Scott Morrison: 10
+Burna Boy: 10
+Newsnight: 10
+Samsung Indonesia: 10
+Samsung : 10
+Samsung USA: 10
+GameStop: 10
+Kay Ivey: 10
+Kendrick Lamar: 10
+Jazz at Clippers: 10
+Trevor Noah: 10
+Last Week Tonight: 10
+Tomi Lahren: 10
+Steven Crowder: 10
+Xbox One: 10
+Reuters: 10
+Rand Paul: 10
+Shaun King: 10
+RM: 10
+Elizabeth II: 10
+Final Fantasy XIV: 10
+Dunkin' Donuts: 10
+Chris Coons: 10
+John Bel Edwards: 10
+Sarah Kendzior: 10
+Chadwick Boseman: 10
+Black Love: 10
+John F. Kennedy: 10
+Microsoft Office: 10
+Dianne Feinstein: 10
+Aretha Franklin: 10
+Jason Holder: 10
+Snoop Dogg: 10
+Performance arts: 10
+Eminem: 10
+Pharrell: 10
+MotoGP Racing: 10
+Live: MotoGP Championship Series: 10
+Motorcycle racing: 10
+Mavericks at Clippers: 10
+Atlanta Hawks: 10
+Killer Mike: 10
+Dinesh D'Souza: 10
+Pete Buttigieg: 10
+Adidas: 9
+Behind the scenes: 9
+DJs: 9
+Montreal Canadiens: 9
+Face Care: 9
+PBS NewsHour: 9
+Energy Technology: 9
+Pokémon: 9
+Boston Police Department: 9
+Accounting: 9
+Hulu: 9
+Dinner: 9
+The Lead With Jake Tapper: 9
+Metropolitan Police (London): 9
+US Open: 9
+Beauty/Hygiene: 9
+Liverpool FC: 9
+Noticiero Univisión: 9
+Joaquín López-Dóriga: 9
+Michael Rosen: 9
+CGTN: 9
+American cuisine: 9
+Overwatch: 9
+Scotland vs Czech Republic: 9
+Xbox Games Showcase: 9
+Needlework: 9
+Olivia Rodrigo: 9
+Alcohol: 9
+The Simpsons: 9
+Independent films: 9
+KSI: 9
+Paranormal: 9
+Jagmeet Singh: 9
+Lay Zhang: 9
+Tim Tebow: 9
+England vs Scotland: 8
+The Beatles: 8
+Gemini: 8
+The Economist: 8
+Laura Ingraham: 8
+Mo Brooks: 8
+Duke Blue Devils: 8
+Airbnb: 8
+Heathrow Airport: 8
+Sonja Morgan: 8
+Michael Moore: 8
+Bread: 8
+Eurovision 2021: 8
+Amy Klobuchar: 8
+Target: 8
+PBS Newshour: 8
+Turkey vs Wales: 8
+Muriel Bowser: 8
+Virtual reality: 8
+Shoes: 8
+Ralph Northam: 8
+Cardi B: 8
+Marco Rubio: 8
+Switzerland: 8
+Bill de Blasio: 8
+Bob Dylan: 8
+Ash Sarkar: 8
+Final Fantasy VII: 8
+LOSC: 8
+Kevin Durant: 8
+Eventbrite: 8
+Doja Cat: 8
+Milwaukee Bucks: 8
+Brooklyn Nets: 8
+Chicken recipes: 8
+The Vampire Diaries: 8
+John Cornyn: 8
+The Underground Railroad: 8
+Hungary: 8
+Michael Jordan: 8
+Keir Simmons: 8
+Star Wars: 8
+Future: 8
+Rainbow Six Siege: 8
+Match of the Day: 8
+Marvin Gaye: 8
+Charlie Crist: 8
+UFC 263: 8
+Battlefield: 8
+Novak Djokovic: 8
+Morgan Freeman: 8
+Jason Whitlock: 8
+Ice T: 8
+Lungi Ngidi: 8
+Biographies and memoirs: 8
+Latin pop: 8
+Eddie Kingston: 8
+Nicola Sturgeon: 8
+CBS This Morning: 8
+Jake Tapper: 8
+Ava DuVernay: 8
+Jordan Clarkson: 8
+Jack Grealish: 8
+Sean Diddy Combs: 8
+Mitt Romney: 8
+Notorious B.I.G.: 8
+Elise Stefanik: 8
+Larry Elder: 8
+Shannon Sharpe: 8
+The Telegraph: 8
+Jordan Henderson: 8
+Craig David: 8
+Coco Gauff: 8
+Tina Turner: 8
+Ari Melber: 8
+Nas: 8
+Gary Younge: 8
+Jimmy Carter: 8
+A Quiet Place 2: 8
+Middlesbrough FC: 8
+Robert Reich: 8
+Canadiens at Jets: 8
+Bill Clinton: 8
+Air Canada: 8
+CIBC: 8
+KPMG: 8
+Nuggets at Trail Blazers: 8
+Day 5: 8
+Michael Flynn: 8
+Celtics at Nets: 8
+College students: 7
+New York Mets: 7
+Running: 7
+Adidas US: 7
+Cheese: 7
+WNBA Basketball: 7
+WNBA: 7
+Erin Burnett OutFront: 7
+Mass Effect: 7
+The Real Housewives of Atlanta: 7
+EA Sports Madden NFL: 7
+Human Resources: 7
+Hip hop: 7
+Skin care: 7
+The Flash: 7
+The Hollywood Reporter: 7
+Necklaces: 7
+Broadway: 7
+Sports betting: 7
+Medium: 7
+Destiny: 7
+Kickstarter: 7
+Genshin Impact: 7
+Adventure travel: 7
+Specialty: 7
+Sky: 7
+Greenpeace: 7
+Ripple cryptocurrency: 7
+Law & Order: Special Victims Unit: 7
+Nintendo: 7
+Germany: 7
+3D printing: 7
+Dragon Ball: 7
+TV One: 7
+Samsung Mobile: 7
+Samsung Mobile UK: 7
+Samsung Mobile US: 7
+Cameras: 7
+Bill Gates: 7
+Lord of the Rings: 7
+Candy: 7
+Zara: 7
+Home Improvement: 7
+Canada Olympic Team: 7
+Small Axe: 7
+Small Axe  : 7
+MTV: 7
+Prince Harry: 7
+Knitting: 7
+The Andrew Marr Show: 7
+Vans: 7
+2D animation: 7
+Bing: 7
+2K: 7
+Game of Thrones: 7
+College Football: 7
+Xbox Series X: 7
+Bravotv: 7
+Bravo: 7
+Cookies: 7
+The Daily Telegraph: 7
+Supernatural: 7
+Cukur: 7
+Gardening: 7
+Formule 1 : Grand Prix d'Azerbaidjan: 7
+Friends Reunion : 7
+Alphabet Inc.: 7
+CA Osasuna: 7
+UEFAチャンピオンズリーグ: 7
+DevOps: 7
+Verizon Wireless: 6
+Captain America: The First Avenger: 6
+Kerem Bursin: 6
+Xi Jinping: 6
+Bloomberg: 6
+Magic Johnson: 6
+Chris Paul: 6
+Dwyane Wade: 6
+Andy Biggs: 6
+College Basketball: 6
+NCAA Men's Basketball: 6
+Quavo: 6
+Outerwear: 6
+Verzuz: 6
+Jim Kenney: 6
+Whoopi Goldberg: 6
+HBO Max: 6
+Kevin Sorbo: 6
+Victoria's Secret: 6
+Chrissy Teigen: 6
+Dominic Raab: 6
+Theresa May: 6
+Caitlyn Jenner: 6
+Canadiens at Golden Knights: 6
+BET Awards 2021: 6
+Mercari (メルカリ): 6
+Denmark vs Belgium: 6
+Dior: 6
+Mike Lee: 6
+ATEEZ: 6
+Abhinav Shukla: 6
+Tiger Woods: 6
+Sneakers: 6
+La reine des neiges: 6
+iCarly: 6
+Google Search: 6
+Jewelry making: 6
+Missy Elliott: 6
+United States Air Force: 6
+Softball: 6
+Alex Scott: 6
+Jemele Hill : 6
+Outriders: 6
+Shonda Rhimes: 6
+OWN: 6
+Oprah Winfrey Network: 6
+Meghan McCain: 6
+Microsoft Windows: 6
+Windows: 6
+The Powerpuff Girls: 6
+Christian & gospel music: 6
+National parks: 6
+Working Out: 6
+NBA YOUNGBOY: 6
+Steve Scalise: 6
+A$AP Rocky: 6
+The Handmaid's Tale: 6
+PGA Tour Golf: 6
+Live: The Masters PGA Tour Golf: 6
+Black Ink Crew: 6
+Akon: 6
+Razer: 6
+Jack Posobiec: 6
+Keemstar: 6
+Samsung Galaxy: 6
+United States Secret Service: 6
+Antonio Rudiger: 6
+Haven: 6
+Ric Flair: 6
+MLS Soccer: 6
+Mexican cuisine: 6
+Watches: 6
+FIFA.com: 6
+PlayerUnknown's Battlegrounds: 6
+Grand Theft Auto: 6
+Andy Burnham: 6
+Tinder: 6
+Gary Neville: 6
+John Mellencamp: 6
+Geraldo Rivera: 6
+Today 3rd Hour: 6
+Joe Budden: 6
+Mark Wahlberg: 6
+Suns at Nuggets: 6
+Netherlands vs Ukraine: 6
+Physics: 6
+Wellness and health brands: 6
+Wrestling: 6
+America's Got Talent: 6
+Terry McAuliffe: 6
+Jadon Sancho: 6
+Lisa Nandy: 6
+Sidharth Shukla: 6
+Jim Inhofe: 6
+Scandal: 6
+Eric Boehlert: 6
+Muhammadu Buhari: 6
+Billie Holiday: 6
+Gregory W. Meeks: 6
+The Weeknd: 6
+Black Panther 2 : 6
+Turkey vs Italy: 6
+Deutsche Welle: 6
+Matt Hancock: 6
+Tribeca Film Festival 2021: 6
+Joe Root: 6
+Mark Cuban: 6
+Zac Efron: 6
+Bollywood films: 6
+Jennifer Lopez: 6
+Counseling and psychotherapy: 6
+Firefighting: 6
+CHANYEOL: 6
+Aston Villa: 6
+S.W.A.T.: 6
+Tommie Smith: 6
+Liz Cheney: 6
+Gladys Knight: 6
+Brian Stelter: 6
+Whitney Houston: 6
+Shane Dawson: 6
+Prime Minister's Questions: 6
+NBA Tip-Off: 6
+Tom Cruise: 6
+B.I (iKON): 6
+Miami Heat: 6
+Michael Gove: 6
+Jon Ossoff: 6
+Screenwriting: 6
+Never Before Scene 1305: 6
+Stop and Throw the Roses: 6
+Sebastian Gorka: 6
+Hawks at 76ers: 6
+Showtime: 6
+Meek Mill: 6
+Gabrielle Union: 6
+Johnny Cash: 6
+Joe Walsh: 6
+Wilfried Zaha: 6
+Roger Goodell: 6
+Josh Hawley: 6
+Jay Inslee: 6
+Faith and Fear: 6
+Drake Bell: 6
+Monsta X: 6
+Danny Ainge: 6
+CVS Pharmacy: 6
+Ellen DeGeneres: 6
+Kylie Jenner: 6
+Dispatches: 6
+The Real Housewives of New Jersey: 6
+Red Velvet: 6
+Trail Blazers at Nuggets: 6
+Canadiens at Maple Leafs: 6
+U2: 6
+Lady Gaga: 6
+Michael Bloomberg: 6
+Nikki Haley: 6
+Ray Fisher: 6
+Russell Westbrook: 6
+One Punch Man: 6
+Aloe Blacc: 6
+Punk: 5
+Portugal: 5
+Spike Lee: 5
+Australian Football League: 5
+VALORANT: 5
+Rogue Company: 5
+Tabletop role-playing games: 5
+Dungeons & Dragons: 5
+Tottenham Hotspur: 5
+Eye makeup: 5
+Suits: 5
+Flash: 5
+Homecoming: A Film by Beyoncé: 5
+Coinbase: 5
+Jim Cramer: 5
+Pakistan Super League: 5
+Real Time With Bill Maher: 5
+Star Trek: 5
+New England Patriots: 5
+Boston Red Sox: 5
+Banana Republic: 5
+TIME Magazine: 5
+T-Mobile: 5
+Harry Styles: 5
+Mutual funds: 5
+Retired life: 5
+Caregiving: 5
+Amazon Prime Video: 5
+Champagne: 5
+ONE PIECE: 5
+Robert Mueller: 5
+PGA Tour: 5
+PGA Tour Live: 5
+Saxophone: 5
+Sesame Street: 5
+The Pentagon: 5
+Amazon Prime: 5
+The Hill: 5
+Parenting teens: 5
+Comedy: 5
+Harry Potter: 5
+Apple iPad: 5
+Orlando Magic: 5
+FIFA Men's World Cup: 5
+The Bachelorette: 5
+Madiba: 5
+Sony: 5
+Criminal Minds: 5
+Nikon: 5
+Lip Gloss: 5
+Hedge funds: 5
+Techno: 5
+Amazon Music: 5
+Poshmark: 5
+Doritos: 5
+South Africa: 5
+Outdoors: 5
+Wales vs Switzerland: 5
+Folk music: 5
+Vimeo: 5
+Anthony Fauci: 5
+Talk radio: 5
+Romance films: 5
+Historical films: 5
+USAID: 5
+NCAA Football: 5
+Pop rock: 5
+Paul Manafort: 5
+UberEats: 5
+UberEATS: 5
+Tea: 5
+Homeschooling: 5
+Cheetos: 5
+CBC: 5
+Travel Channel: 5
+Manga: 5
+Credit Cards: 5
+Energy Drinks: 5
+WWE NXT: 5
+Fitness apps & trackers: 5
+Lower body fitness: 5
+Çukur: 5
+Portland Trail Blazers: 5
+TRT World: 5
+Popeyes: 5
+Fantasy sports: 5
+DraftKings: 5
+All4: 5
+Rosewood: 5
+Financial Times: 5
+Attack on Titan: 5
+Padres at Astros: 5
+Reds at Cubs: 5
+Donald Glover: 5
+Akshay Kumar: 4
+George Takei: 4
+AT&T: 4
+Comcast: 4
+Ian Payne: 4
+The Falcon and the Winter Soldier: 4
+Anthony Mackie: 4
+Hande Ercel: 4
+Machine learning: 4
+Wells Fargo: 4
+Historical fiction: 4
+Psychology: 4
+Scott DesJarlais: 4
+Doug LaMalfa: 4
+Tom McClintock: 4
+Matt Rosendale: 4
+Chip Roy: 4
+National Guard: 4
+Chris Rock: 4
+Live: Australian Rules Football: 4
+90 Day Fiancé: Happily Ever After?: 4
+Alicia Keys: 4
+VeChain cryptocurrency: 4
+Zillow: 4
+Ratna Omidvar: 4
+US Department of the Treasury: 4
+Julian Assange: 4
+Queen Latifah: 4
+Dhanush: 4
+Business Insider: 4
+David Guetta: 4
+Ukraine: 4
+Fake lashes and extensions: 4
+Sergio Ramos: 4
+Gavin Williamson: 4
+BLINK: 4
+Golden State Warriors: 4
+Ana Navarro: 4
+American Airlines: 4
+Procter & Gamble: 4
+GeorgeNotFound: 4
+Maria Bartiromo: 4
+Vijay: 4
+South America - Soccer: 4
+Campeonato Brasileiro: 4
+Non-fiction: 4
+Houston Texans: 4
+Clarence Thomas: 4
+Amazon - AI: 4
+Anderson Cooper 360: 4
+U.S. Open Tennis: 4
+Larry Hogan: 4
+Binance Coin cryptocurrency: 4
+Yogi Adityanath: 4
+Anthony Rapp: 4
+Matthew Mercer: 4
+Mark Ruffalo: 4
+Washington Wizards: 4
+Bucks at Nets: 4
+Megyn Kelly: 4
+Taye Diggs: 4
+BamBam (GOT7): 4
+Romesh Ranganathan: 4
+Ed Markey: 4
+Theme Park: 4
+Nadhim Zahawi: 4
+Liz Truss: 4
+Jon Rahm: 4
+Kenzo Shirai: 4
+Lil Wayne: 4
+SZA: 4
+Danny Glover: 4
+Louis Vuitton: 4
+A Million Little Things: 4
+Justin Timberlake: 4
+Alyssa Milano: 4
+Hunting: 4
+Mary J Blige: 4
+Regina King: 4
+Mariah Carey: 4
+Ancestry: 4
+Mac Jones: 4
+NBC Nightly News: 4
+Dave Loebsack: 4
+Chuck Grassley: 4
+Bundesliga Soccer: 4
+MLS: 4
+Todrick Hall: 4
+Rocket League: 4
+Rolex: 4
+Mick Foley: 4
+Kevin Nash: 4
+Sami Zayn: 4
+Sara Sidner: 4
+Leo: 4
+Puppies: 4
+Baby Animals: 4
+Weather: 4
+76ers at Hawks: 4
+Mortal Kombat: 4
+Tidal: 4
+Chris Stewart: 4
+Lamar Johnson: 4
+Charlie Baker: 4
+Ubisoft: 4
+Marianne Williamson: 4
+60 Minutes: 4
+Doug Ducey: 4
+Board games: 4
+Apple - Apple Pay: 4
+Jacinda Ardern: 4
+EA Sports UFC: 4
+Philadelphia 76ers: 4
+Sandwiches: 4
+Pie: 4
+Idris Elba: 4
+Jacob Zuma: 4
+Denver Nuggets: 4
+Ta-Nehisi Coates: 4
+RuPaul: 4
+Sebastian Stan: 4
+Embroidery: 4
+Planet Fitness: 4
+Fitness Brands: 4
+Andy Beshear: 4
+Phil Murphy: 4
+Beyhive: 4
+Little Caesars: 4
+Paul Mason: 4
+Silk Sonic : 4
+Ciara: 4
+Advertising: 4
+Israel: 4
+Lady A: 4
+Daniel Kaluuya: 4
+Leanne Wood: 4
+Ronna McDaniel: 4
+Bryce Hall: 4
+Thomas Meunier: 4
+KFC: 4
+Converse: 4
+Stephen Curry: 4
+Alex Jones: 4
+Adrian Lamo: 4
+Sainsbury's: 4
+BMW: 4
+Brunch: 4
+Daniel Radosh: 4
+Halloween films : 4
+Volkswagen: 4
+Robert Jenrick: 4
+Kate Brown: 4
+Special Education: 4
+Dream: 4
+The Black Eyed Peas: 4
+Sex and the City: 4
+Michelle Lujan Grisham: 4
+Ben Ray Lujan: 4
+Xherdan Shaqiri: 4
+TURKI ALALSHIKH: 4
+Quinton de Kock: 4
+PG Tips: 4
+Yoweri Museveni: 4
+Zarah Sultana: 4
+Luka Doncic: 4
+Lamar Odom: 4
+Jimmy Fallon: 4
+Graduate school: 4
+Ben Affleck: 4
+Dolly Parton: 4
+Ron Bassilian: 4
+United States Postal Service: 4
+Robert Kraft: 4
+João Dória: 4
+iTunes: 4
+Black Is King: 4
+Micheál Martin: 4
+TWICE: 4
+2021 PFL Season: 4
+MMA: 4
+MF DOOM: 4
+SHINee: 4
+Construction: 4
+Brian Sims: 4
+Ryan Sherriff: 4
+Hair dyeing: 4
+Jesse Jackson: 4
+Kenny Smith: 4
+Naruto: 4
+Burger King: 4
+The Bachelor: 4
+Manu Intiraymi: 4
+Machine Gun Kelly: 4
+Salma Hayek : 4
+International Women's Day: 4
+BuzzFeed: 4
+MasterCard: 4
+Sheila Jackson Lee: 4
+Lyle Taylor: 4
+Into1: 4
+Antony Blinken: 4
+Jasmin Bhasin: 4
+Canada: 4
+Big Narstie: 4
+Casino: 4
+Lil Kim: 4
+Shakira: 4
+Pooh Shiesty: 4
+Gorillaz: 4
+H&M : 4
+Thriller films: 4
+Oreo: 4
+Jim Acosta: 4
+Toby Young: 4
+UEFA Europa League Football: 4
+UEFA Europa League: 4
+Robert Buckland: 4
+Kevin De Bruyne: 4
+Kylian Mbappe: 4
+Space Exploration: 4
+The Killers: 4
+j-hope: 4
+Pramila Jayapal: 4
+Ted Lieu: 4
+Scott Dworkin: 4
+Shannon Watts: 4
+World of Warcraft: 4
+Sheryl Underwood: 4
+AC Milan: 4
+Miley Cyrus: 4
+Mikie Sherrill: 4
+Blues music: 4
+Dick Durbin: 4
+Reni Eddo-Lodge: 4
+AEW: Double or Nothing: 4
+Kat Timpf: 4
+Shehnaaz Kaur Gill: 4
+Jin: 4
+Egg recipes: 4
+John McDonnell: 4
+Julio Jones: 4
+Tip: 4
+Miku Hatsune: 4
+Face the Nation: 4
+RENJUN: 4
+Will Smith: 4
+Michael B. Jordan: 4
+Everytown: 4
+Calvin Klein: 4
+Keffiyeh (كوفية): 4
+Vegetarianism: 4
+Darren Sammy: 4
+PewDiePie: 4
+Traveling with kids: 4
+Elton John: 4
+Vox: 4
+iKON: 4
+Denzel Washington: 4
+Damian Lillard: 4
+Glenn Greenwald: 4
+Ann Coulter: 4
+Sara A. Carter: 4
+Lauren Boebert: 4
+Bakari Sellers: 4
+Mehdi Hasan: 4
+Thom Tillis: 4
+FOX News Sunday With Chris Wallace: 4
+Gatorade: 4
+GPS and maps: 4
+Grizzlies at Jazz: 4
+ITZY: 4
+Chris Brown: 4
+Kim Jong-un: 4
+Shemar Moore: 4
+UNICEF: 4
+Day 4: 4
+Marcus Stroman: 4
+John Kerry: 4
+Chris Van Hollen: 4
+Tom Holland: 4
+Lecrae: 4
+Pink: 4
+Day 3: 4
+Lester Holt: 4
+Britney Spears: 4
+Haikyu!!: 4
+Cooley High: 4
+Denny's: 4
+Dave Weigel: 4
+Day 2: 4
+Beto O'Rourke: 4
+Lizzo: 4
+76ers at Wizards: 4
+Bucks at Heat: 4
+Fox and Friends: 3
+The Home Depot: 3
+UBS: 3
+Pop Punk: 3
+Netherlands: 3
+Power Couple Brasil: 3
+Luca: 3
+J.P. Morgan: 3
+Yankees at Blue Jays: 3
+Cubs at Mets: 3
+Los Angeles Dodgers: 3
+The Independent: 3
+Ronny L. Jackson: 3
+Nestle: 3
+Nestle USA: 3
+Queen of the South: 3
+Love, Victor: 3
+Evermore: 3
+Emanet: 3
+Apple AirPods: 3
+Nutrition: 3
+Auto intenders: 3
+Libra: 3
+The Source: 3
+Marathon running: 3
+Fashion events: 3
+Skype: 3
+Harvey Weinstein: 3
+Mark Zuckerberg: 3
+iCarly 2021: 3
+Open source: 3
+Dining Out: 3
+Foundation: 3
+MasterChef: 3
+Food Person: 3
+Nickelodeon: 3
+Brazil - Soccer: 3
+European Super League: 3
+Tyler Perry's Sistas: 3
+Peston on Sunday: 3
+Hamilton The Musical: 3
+Live: Hyundai A-League Football: 3
+A-League: 3
+The Situation Room With Wolf Blitzer: 3
+Herbs & spices: 3
+Piano: 3
+iHeartRadio: 3
+IKEA: 3
+Organic beauty: 3
+Tyson Fury vs Deontay Wilder 3: 3
+Forza Motorsport: 3
+Apple TV: 3
+Hungary vs Portugal: 3
+THE ALBUM: 3
+Royale High: 3
+PGA TOUR: 3
+General Motors: 3
+Nintendo Direct: 3
+Sagittarius : 3
+Data Privacy and Protection: 3
+Mark R. Levin: 3
+American Horror Story: 3
+Parenting Teens: 3
+Intel: 3
+Off The Ball: 3
+Bank of America: 3
+Chevrolet: 3
+San Francisco Police Department: 3
+Skip and Shannon Undisputed: 3
+Skip and Shannon: Undisputed: 3
+Toyota: 3
+YouTube Music: 3
+Critical Role: 3
+Kroger: 3
+Taurus: 3
+Child Care: 3
+LEGO: 3
+Are You Being Served?: 3
+Fashion magazines and publishers: 3
+Egyptian Premium League: 3
+男子プロゴルフ: 3
+Romance books: 3
+Online Marketing: 3
+Indian Super League: 3
+Them: Covenant: 3
+USA: 3
+Tezos cryptocurrency: 3
+S.T.A.L.K.E.R.: 3
+Milk: 3
+Lupin The Third: 3
+Gone With The Wind: 3
+Pandora (Radio): 3
+Whiskey: 3
+Empire: 3
+Empire - Fama e Poder: 3
+CNN Newsroom With Fredricka Whitfield: 3
+New Years Eve: 3
+Happy New Year: 3
+CMT Music Awards 2021: 3
+Pokémon GO: 3
+TMZ: 3
+Hunter X Hunter: 3
+Hunter × Hunter: 3
+Motorcycles: 3
+Freaky Friday: 3
+Os Simpsons: 3
+Coronation Street: 3
+Rugrats: 3
+Going Out: 3
+Daily Mirror: 3
+Rugby League: 3
+Yoga: 3
+Keeping Up With the Kardashians: 3
+Craig of the Creek: 3
+ESPN FC: 3
+Lorraine: 3
+Tanning: 3
+Richard Branson: 3
+Married at First Sight: 3
+Marasli: 3
+Sunglasses: 3
+NowThis: 3
+Mathematics: 3
+Chloe x Halle: 3
+This Time with Alan Partridge: 3
+Janelle Monáe: 3
+Trucks: 3
+Boston Bruins: 3
+Jeep: 3
+Jacksepticeye: 3
+The Bold and the Beautiful: 3
+Drag Race España: 3
+Nashville: 3
+Series Finale: 3
+Indiegogo: 3
+Twilight Saga: 3
+NASCAR Cup Series: 3
+Retro gaming: 3
+John Carlos: 3
+Afrobeat: 3
+Greg Berlanti: 3
+Language learning: 3
+First Take: 3
+The Talk: 3
+Mother's Day: 3
+Loose Women: 3
+Someone Saved My Life Tonight: 3
+Forever and Ever, Amen: 3
+Prince William: 3
+ExxonMobil: 3
+Violin: 3
+Padres at Cubs: 3
+Spider-Man: 3
+The State: 3
+How Nude: 3
+50 Cent: 3
+Line of Duty: 3
+Zendaya: 3
+Toronto Maple Leafs: 3
+呪術廻戦: 3
+Jujutsu Kaisen: 3
+Breaking Bad: 3
+Hilton Hotels & Resorts: 3
+Land Rover: 3
+Land Rover - Range Rover: 3
+Cracker Barrel: 3
+Teen Wolf: 3
+Cynthia Nixon: 3
+Chicago Fire: 3
+Robinhood: 2
+Paul McCartney: 2
+FOX & friends: 2
+FedEx: 2
+UPS: 2
+Zcash cryptocurrency: 2
+Mamata Banerjee: 2
+Netherlands vs Austria: 2
+Spain: 2
+Das Boot: 2
+Ruth Johnson: 2
+Counter-Strike: 2
+Waldorf Astoria: 2
+Derby County: 2
+Liam Rosenior: 2
+Georginio Wijnaldum: 2
+Bagels: 2
+Black Lightning: 2
+Wimbledon: 2
+Patricia Arquette: 2
+Thomas Massie: 2
+Ralph Norman: 2
+Women's College Basketball: 2
+NCAA Women's Basketball: 2
+Grilling: 2
+Forever 21: 2
+Demon Slayer: 2
+Virtua Fighter: 2
+Jared Kushner: 2
+Minnesota Lynx: 2
+Inside Edition: 2
+Dua Lipa: 2
+Best Buy: 2
+Riot Games: 2
+Donald Tusk: 2
+Doom at your service: 2
+CRAVITY: 2
+Sports themed films: 2
+Kareem Abdul-Jabbar: 2
+Zerohedge: 2
+Nat King Cole: 2
+Cam Tavanlar: 2
+Ukraine vs North Macedonia: 2
+Alma Adams: 2
+Joyce Beatty: 2
+Allstate: 2
+Mike DeWine: 2
+Dalai Lama: 2
+Raven-Symoné: 2
+Disney+: 2
+Jana Lynne Sanchez: 2
+Roddy Ricch: 2
+Harrison Smith: 2
+Wolf Blitzer: 2
+King Salman bin Abdulaziz: 2
+King Salman: 2
+Fashion models: 2
+Fashion Week: 2
+Mark (GOT7): 2
+The Rookie: 2
+Titus Makin: 2
+Turkey: 2
+Rita Moreno: 2
+Fikayo Tomori: 2
+James Corden: 2
+Mitski: 2
+HSBC: 2
+DJ Kam Bennett : 2
+USAA: 2
+Cloud computing: 2
+Cloud platforms: 2
+Indiana Pacers: 2
+Orthodontics: 2
+Ed Harcourt: 2
+WayV: 2
+World Bank: 2
+Speedrunning: 2
+Legends: Paula Deen -- Auditions Round 3: 2
+Paula Deen: 2
+Gordon Ramsay: 2
+Italy vs Switzerland: 2
+Michel Aoun: 2
+Veterans of Foreign Wars: 2
+John Lewis: 2
+Johnny Depp: 2
+John Bolton: 2
+Stanley Cup: 2
+Dallas Mavericks: 2
+HubSpot: 2
+Treme: 2
+Sign O' the Times: 2
+Bryce Dallas Howard: 2
+Paul Giamatti: 2
+Rotten Tomatoes: 2
+Brian Allen: 2
+Tom Brady: 2
+Stephen Breyer: 2
+Columbo: 2
+Jason Kenney: 2
+Injustice: 2
+Jeffree Star: 2
+Beauty Person: 2
+Rolling Stone: 2
+Megan Thee Stallion: 2
+Howard Stern: 2
+Travis Barker: 2
+Dak Prescott: 2
+Russell Wilson: 2
+CouRage: 2
+Domenico Montanaro: 2
+PRODUCE 101 JAPAN: 2
+Rachel Campos-Duffy: 2
+Bruno Mars: 2
+Stormzy: 2
+Mark Hughes: 2
+Hip-hop dance: 2
+Leicester City: 2
+Tyron Woodley: 2
+John Boyega: 2
+Juice: 2
+Indianapolis Colts: 2
+Databases: 2
+Yugyeom (GOT7): 2
+James Woods: 2
+Everton: 2
+Citizens for Ethics: 2
+ANI (Asian News International): 2
+Getty Images: 2
+Chris Bryant: 2
+John Barrasso: 2
+Tarek Fatah: 2
+Julius Caesar: 2
+Steve Nash: 2
+House of Lords: 2
+SUGA: 2
+Superman & Lois: 2
+GM Latino: 2
+Laurence Fishburne: 2
+Kathy Griffin: 2
+Lionel Messi: 2
+James Neal: 2
+Sundar Pichai: 2
+Earth Day: 2
+Davido: 2
+Henry C. "Hank" Jr. Johnson: 2
+Octavia Spencer: 2
+H.E.R: 2
+Kerry Washington: 2
+Matheus Mazzafera: 2
+Luis Inácio "Lula" da Silva: 2
+Canon: 2
+Toni Kroos: 2
+21 Savage: 2
+Steve Bannon: 2
+Michael Kiwanuka: 2
+John Cena: 2
+Fast and Furious 9 : 2
+Dayne St Clair: 2
+Mike Huckabee: 2
+Prince Andrew: 2
+General Hospital: 2
+Vybz Kartel: 2
+Gabby Sidibe: 2
+Emma Watson: 2
+Jacob Rees-Mogg: 2
+BBC News at One: 2
+Jeffrey Epstein: 2
+Nile Rodgers: 2
+Rag'n'Bone Man: 2
+Tiger King (Netflix): 2
+Boeing: 2
+Sean Johnson: 2
+Young Thug : 2
+Aquarius: 2
+Pisces: 2
+Tango: 2
+Ludwig Ahgren: 2
+Schitt's Creek: 2
+Dan Levy: 2
+Rick and Morty: 2
+Sacramento Kings: 2
+Olympic Shooting: 2
+Day6: 2
+Moderna: 2
+ESL: 2
+Andrew McCabe: 2
+Spain vs Sweden: 2
+Judd Legum: 2
+Dave Portnoy: 2
+DC's Legends of Tomorrow: 2
+Microsoft - AI: 2
+Kurt Daudt: 2
+West End: 2
+Tom Barrett: 2
+Grime: 2
+Marty Walsh: 2
+Danny Murphy: 2
+Aries: 2
+Capricorn : 2
+Byron Brown: 2
+Phil Ting: 2
+David Loebsack: 2
+Capcom: 2
+Gucci: 2
+Fine Line: 2
+Sweet Tooth: 2
+Alexander Lukashenko: 2
+Slovakia: 2
+Delta Airlines: 2
+LL Cool J: 2
+Jacob deGrom: 2
+Jennifer Lawrence: 2
+Super Mario: 2
+Joyner Lucas: 2
+Natalie Wynn: 2
+Wired: 2
+Neymar : 2
+Nia Long: 2
+Starr Andrews: 2
+Halsey: 2
+Naomi Campbell: 2
+U.S. Marine Corps: 2
+Starfield: 2
+Janet Jackson: 2
+Virat Kohli: 2
+Mohammed Shami: 2
+Black Pumas: 2
+Tierna Davidson: 2
+Kelly Rowland: 2
+James Harrison: 2
+TRON cryptocurrency: 2
+Jordan: 2
+George Boyd: 2
+Credit, debt and loans: 2
+FaZeClan: 2
+Johnson & Johnson: 2
+Maine Mendoza: 2
+Pants: 2
+Avengers Assemble: 2
+マーベル アベンジャーズ・アッセンブル: 2
+Chris Evans: 2
+International Rescue Committee (IRC): 2
+Stefanos Tsitsipas: 2
+Greg Fischer: 2
+Warner Bros. Pictures: 2
+Suspects: 2
+Christian Bale: 2
+Adobe: 2
+Lil Durk: 2
+Sinéad Harnett: 2
+Kelly Somers: 2
+Luka Modric: 2
+Afrobeats: 2
+DJ Switch: 2
+Zoology: 2
+Tyga: 2
+Recep Tayyip Erdoğan: 2
+Wonho (Monsta X): 2
+Bashar al-Assad: 2
+The Blacklist: 2
+Mike Majlak: 2
+Vinnie Hacker: 2
+Yousef Erakat: 2
+Under Armour: 2
+Joe Buck: 2
+Simone Manuel: 2
+EXO: 2
+BMW USA: 2
+U-Haul: 2
+Chris Sununu: 2
+Rockstar Games: 2
+Kofi Kingston: 2
+Big E: 2
+Adam Smith: 2
+Lupin: 2
+Clay Travis : 2
+Days Inn: 2
+Jazmine Sullivan: 2
+Jack in the Box: 2
+Jack Daniel's: 2
+David Axelrod: 2
+Joe Ingles: 2
+Dickies: 2
+Eyeshadow: 2
+Aaron Rodgers: 2
+CNN Newsroom with Fredricka Whitfield: 2
+Faf du Plessis: 2
+AB de Villiers: 2
+Queen's 95th Birthday 2021: 2
+CIX: 2
+Patty Mills: 2
+Rafael Nadal: 2
+Anas Sarwar: 2
+Luke Shaw: 2
+Juice WRLD: 2
+Nikola Jokic: 2
+Garcelle Beauvais: 2
+Cynthia Erivo: 2
+Track & field: 2
+Alina Boz: 2
+Busch Light: 2
+The Jackbox Party Pack: 2
+Dancehall: 2
+William Keating: 2
+Jeanne Shaheen: 2
+Las Vegas Raiders: 2
+Wesley Morris: 2
+Warframe: 2
+Publix: 2
+Huawei: 2
+Chris D'Elia: 2
+The Last Leg: 2
+Carlos Santana: 2
+Michael Bennett: 2
+Chicago White Sox: 2
+Tony Khan: 2
+CBS Evening News With Norah O'Donnell: 2
+Donald McEachin: 2
+Andrea Bocelli: 2
+Classical music: 2
+Dan Coats: 2
+Levar Stoney: 2
+Toronto Raptors: 2
+Parenting K-6 kids: 2
+CBS All Access: 2
+Paramount Plus: 2
+Infinite (2020): 2
+Infinite: 2
+Super Junior: 2
+John Joyce: 2
+Billy Porter: 2
+Lewis Black: 2
+Gazelle Twin: 2
+S&P Global: 2
+Cynthia Johnson: 2
+The Office: 2
+Pixar: 2
+Fate/Grand Order: 2
+Angela Merkel: 2
+Andy Robertson: 2
+Noel Gallagher: 2
+ONCE: 2
+The Boyz: 2
+Daniel Sturridge: 2
+Yan Dhanda: 2
+Mary Creagh: 2
+Perfumes & fragrances: 2
+Sistar: 2
+Melania Trump: 2
+Jeffrey Toobin: 2
+Lou Gehrig: 2
+Amazon Studios: 2
+Doris Burke: 2
+MGMT: 2
+College Softball: 2
+Fiat: 2
+3D animation: 2
+Kid Rock: 2
+Abby Phillip: 2
+Kelsea Ballerini: 2
+Marc Jacobs: 2
+Jonathan Chait: 2
+Behavior around beauty: 2
+Doug Collins: 2
+Garnet Hathaway: 2
+Vancouver Canucks: 2
+Steve Clarke: 2
+Jessica the Intern: 2
+Cancer: 2
+Brianna Keilar: 2
+Karamo Brown: 2
+Norwich City FC: 2
+Kim Reynolds: 2
+Jenny Durkan: 2
+Jessica Chastain: 2
+David Eigenberg: 2
+NinjaGo: Masters of Spinjitzu: 2
+Cereals: 2
+Home improvement: 2
+BJ The Chicago Kid: 2
+Noughts + Crosses: 2
+Rachel Martin: 2
+David Bowie: 2
+The Upshaws  : 2
+Wanda Sykes: 2
+Minnesota Twins: 2
+Judas and the Black Messiah: 2
+Lenny Kravitz: 2
+Brian Fitzpatrick: 2
+The Real Housewives of Beverly Hills: 2
+Archaeology: 2
+Twenty One Pilots: 2
+Eric Reid: 2
+Teyana Taylor: 2
+Amber Rudd: 2
+Astros at Red Sox: 2
+Otep Shamaya: 2
+Beetlejuice (Green): 2
+Samuel L. Jackson: 2
+Ryan Reynolds: 2
+Antonio Banderas: 2
+Clive Lewis: 2
+Transformers: 2
+Crossfit: 2
+Mark McKenzie: 2
+Odell Beckham Jr: 2
+Sheffield United: 2
+David Shuster: 2
+Lyft: 2
+Timbaland: 2
+Derrick Johnson: 2
+Fela Kuti: 2
+James Johnson: 2
+azcentral: 2
+Nottingham Forest FC: 2
+Paul Kagame: 2
+Gigi Hadid: 2
+Bella Hadid: 2
+Angelina Pivarnick: 2
+Dara Ó Briain: 2
+Rupa Huq: 2
+Steven Universe: 2
+Marina Hyde: 2
+David Muir: 2
+World News Tonight: 2
+Ben Jones: 2
+Josep Borrell Fontelles: 2
+Ruud Gullit: 2
+Virgil van Dijk: 2
+Las Vegas Sands: 2
+Live: World Cup Qualifier Football: 2
+Halle Bailey: 2
+Alex Bregman: 2
+Anthony Joshua: 2
+Laurie Hernandez: 2
+LeVar Burton: 2
+Shake Milton: 2
+Joel Embiid: 2
+2018 FIFA World Cup: 2
+WC Qual, CONMEBOL: 2
+Smokey Robinson: 2
+The Mandalorian: 2
+Rupert Everett: 2
+Get Out: 2
+Amazon Eve: 2
+Nicolas Pepe: 2
+UEFA Europa League Soccer: 2
+Richard Ojeda: 2
+Tom Petty: 2
+Nick Cave: 2
+Leeds United: 2
+Jo Jorgensen: 2
+Ursula von der Leyen: 2
+Future of Work: 2
+Jackson (GOT7): 2
+Chris Gayle: 2
+Wanderlust: 2
+Cubs at Padres: 2
+Good Morning America: 2
+Mashable: 2
+Orange is the New Black (Netflix): 2
+Orange is the New Black: 2
+Orange Is the New Black: 2
+Usain Bolt: 2
+Jeremy Hunt: 2
+Top Chef: 2
+Blue Origin: 2
+Nick Robinson: 2
+Roger Federer: 2
+Newcastle United FC: 2
+Dominic Cummings: 2
+Fitbit: 2
+The King of Queens: 2
+Nuggets at Suns: 2
+US Environmental Protection Agency: 2
+Brushes: 2
+Hank Aaron : 2
+Adam Carolla: 2
+Robert Mugabe: 2
+Batwoman: 2
+MTV Miaw: 2
+Laura Harrier: 2
+Blizzard Entertainment: 2
+Daft Punk: 2
+Andy Murray: 2
+Chad Thomas: 2
+Kim Pate: 2
+Jon Tester: 2
+George Lopez: 2
+Carson King: 2
+Rick Astley: 2
+James Charles: 2
+Cyberpunk 2077: 2
+Godzilla: 2
+Mauricio Macri: 2
+Murder Mountain (Netflix): 2
+Green living: 2
+Pat Sheehan: 2
+Kash Doll: 2
+Usher: 2
+Monster Energy: 2
+Monster Hunter: 2
+Dominique Jackson: 2
+Wayne Rooney: 2
+Swara Bhasker: 2
+Common: 2
+Ted Budd: 2
+Emma Stone: 2
+Manchester United Women: 2
+Red Sox at Yankees: 2
+United Shades of America: 2
+The Color of America: 2
+Cubs at Giants: 2
+Jets at Canadiens: 2
+Andy Cohen: 2
+BlackBerry: 2
+Chris Harrison: 2
+Greg Gutfeld: 2
+Blake Shelton: 2
+Sunderland: 2
+Christopher Harper: 2
+The Purge 5 (To confirm name): 2
+Comic Relief 2017: 2
+Kawhi Leonard: 2
+Nina Simone: 2
+Iggy Azalea: 2
+Charli XCX: 2
+Mets at Padres: 2
+Ashley Cole: 2
+Alexandros: 2
+Day 8: 2
+Hope Hicks: 2
+Tony Hawk: 2
+Chief Keef: 2
+Leonardo DiCaprio: 2
+Henry Bolton: 2
+Erica Nlewedim: 2
+Stephen Colbert: 2
+Lucky Daye: 2
+Lloyd Smucker: 2
+Guy Reschenthaler: 2
+Mercedes-Benz: 2
+Nick Young: 2
+Tether cryptocurrency: 2
+Jon Favreau: 2
+Taika Waititi: 2
+Brendon McCullum: 2
+Jos Buttler: 2
+Eoin Morgan: 2
+Roy Cooper: 2
+Mamamoo: 2
+Lalah Hathaway: 2
+Joey Bada$$: 2
+Luxor Las Vegas: 2
+Cartier: 2
+Roger Waters: 2
+Progressive rock: 2
+New York Red Bulls: 2
+Mark Meadows: 2
+The Suicide Squad (2021): 2
+Trent Kelly: 2
+ENHYPEN: 2
+NCAA Softball: 2
+The Elder Scrolls: 2
+EarthBound (Mother): 2
+Tammy Duckworth: 2
+John Harwood: 2
+Arizona Iced Tea: 2
+Albert Einstein: 2
+Pepsi: 2
+D.O.: 2
+Ghosted: Love Gone Missing: 2
+Ed Miliband: 2
+Kendall Jenner: 2
+Susan Page: 2
+Jidenna: 2
+Graham Rogers: 2
+Stephen Miller: 2
+Stephen L. Miller: 2
+Peter Gabriel: 2
+Pusha T: 2
+Afshin Rattansi: 2
+Besiktas J.K.: 2
+The Week in Politics: 2
+Top Gear: 2
+Wi-Fi: 2
+Elvis Presley: 2
+Paul Krugman: 2
+Cinematography: 2
+Bong Joon-Ho: 2
+1984 by George Orwell: 2
+Digital Transformation: 2
+Charles Barkley: 2
+Kaytranada: 2
+Questlove: 2
+David Oyelowo: 2
+Kevin Brady: 2
+Manu Raju: 2
+Pricey Harrison: 2
+MrBeast: 2
+Jeong Yunho (ATEEZ): 2
+Jooheon (Monsta X): 2
+Kihyun (Monsta X): 2
+Nick Cannon: 2
+Toni Morrison: 2
+Concept art: 2
+Mother's Day France: 2
+U.S. Marshals, protection de témoins: 2
+Jon Stewart: 2
+Unreported World: 2
+Barbra Streisand: 2
+Jane Fonda: 2
+Romeo Miller: 2
+NCT: 2
+NCT Dream: 2
+Yandy Smith: 2
+Mike Dunleavy: 2
+Mark DeSaulnier: 2
+Neil Young: 2
+Steven Horsford: 2
+Catherine Cortez Masto: 2
+Robert Downey Jr: 2
+Steven Palazzo: 2
+Billy Crystal: 2
+Vogue Magazine: 2
+Jimmy Kimmel: 2
+Kemi Badenoch: 2
+Joanna Gaines: 2
+Chip Gaines: 2
+Eric Clapton: 2
+Jack Nicholson: 2
+League of Legends: 2
+Kate Bush: 2
+Trent Alexander-Arnold: 2
+Jussie Smollett: 2
+Sean Spicer: 2
+Kaya Jones: 2
+Sylvester Turner: 2
+Sam Stein: 2
+Ja Morant: 2
+Ludacris: 2
+Urban Outfitters: 2
+2021 MTV Movie & TV Awards: 2
+Kyle Griffin: 2
+Sherrod Brown: 2
+Georgia Anne Muldrow: 2
+Gin: 2
+Seth Grossman: 2
+Anheuser-Busch: 2
+Apple - Watch: 2
+Pink floyd: 2
+Chris Murphy: 2
+Imran Khan: 2
+Roy Blunt: 2
+Andrea Stewart-Cousins: 2
+Carl Heastie: 2
+Paul George: 2
+Arjen Robben: 2
+Lewis Capaldi: 2
+Keke Palmer: 2
+House of Commons: 2
+Gal Gadot: 2
+Jon Batiste: 2
+Lovie Smith: 2
+Billy Joel: 2
+Joel Osteen: 2
+Cyril Ramaphosa: 2
+IRENE: 2
+HARDtalk: 2
+ONEUS: 2
+Ezgi Mola: 2
+Khloe Kardashian: 2
+Run the Jewels: 2
+John King: 2
+Twisted Tea: 2
+Google Maps: 2
+Mobile development: 2
+Fleetwood Mac: 2
+CNN Newsroom: 2
+Barclays: 2
+Barclays Center: 2
+Vince McMahon: 2
+No One Is to Blame: 2
+Jadakiss: 2
+Bonnie Watson Coleman: 2
+Bob Menendez: 2
+TOMORROW X TOGETHER: 2
+GOT7: 2
+NBA Draft Lottery: 2
+Adam Silver: 2
+Marv Albert: 2
+This Is Us: 2
+Lil Dicky: 2
+Lil Pump: 2
+Marvel's Spider-Man: 2
+Mae Whitman: 2
+Ana de Armas: 2
+JAY (iKON): 2
+Hakim Ziyech: 2
+Roman Reigns: 2
+Terry Crews: 2
+Nick Jonas: 2
+LPGA Tour Golf: 2
+Live: US Women's Open, LPGA Golf: 2
+LPGA Tour: 2
+Sprite: 2
+Mother's Day UK: 2
+Nonprofit: 2
+Depop: 2
+Reggaeton: 2
+Chris Pratt: 2
+Al Gore: 2
+Michael Landsberg: 2
+Taehyun: 2
+Anthony Brown: 2
+Jim Risch: 2
+John Neely Kennedy: 2
+Mortgage: 2
+Ned Lamont: 2
+Naomi Long: 2
+Bill Huizenga: 2
+Tim Walberg: 2
+Andrew Koenig: 2
+John Elleson: 2
+John Hoeven: 2
+Jared Polis: 2
+Kay Granger: 2
+Jay Webber: 2
+Paul Bettencourt: 2
+Gary Peters: 2
+Chris Matthews: 2
+Deborah Glick: 2
+Kevin Spacey: 2
+Jim Carrey: 2
+Bilawal Bhutto Zardari: 2
+Macklemore: 2
+Edward Snowden: 2
+Never Before Scene 1304: 2
+Dorinda Medley: 2
+Luann de Lesseps: 2
+Ramona Singer: 2
+The Real Housewives of Dallas: 2
+Chance The Rapper: 2
+YBN Cordae: 2
+NBA Finals: 2
+Disha Patani: 2
+Priyanka Chopra: 2
+Robotics: 2
+Freddie Gibbs: 2
+Zachary Fox: 2
+Kym Whitley: 2
+Heather Hemmens: 2
+RZA: 2
+Anthony Adams: 2
+Samantha Bee: 2
+Issa Rae: 2
+black-ish: 2
+Gucci Mane: 2
+Latto: 2
+Mark Warner: 2
+Eric Swalwell: 2
+Krispy Kreme: 2
+John Hayden: 2
+Kelvin Harrison Jr.: 2
+John David Washington: 2
+Jennifer Hudson: 2
+Jeffrey Wright: 2
+Yamiche Alcindor: 2
+Sushant Singh Rajput: 2
+Sebastian Junger: 2
+Ashleigh Banfield: 2
+Chipotle: 2
+Timothée Chalamet: 2
+HasanAbi: 2
+Rex Burkhead: 2
+Maggie Haberman: 2
+Jesse Lingard: 2
+Whole Foods: 2
+Rade Krunic: 2
+Women's tennis: 2
+Carlo Ancelotti: 2
+Sonequa Martin-Green: 2
+William Shatner: 2
+Patrick Stewart: 2
+Halle Berry: 2
+Eugene Robinson: 2
+Trae Young: 2
+DASANI: 2
+British Airways: 2
+Tyler The Creator: 2
+Bob Morley: 2
+Red Dead Redemption: 2
+Sinead O'Connor: 2
+Nipsey Hussle: 2
+Carey Price: 2
+Los Simpsons: 2
+Omari Hardwick: 2
+Dominique Alexander: 2
+Sade: 2
+DoorDash: 2
+Cheri Bustos: 2
+Smokie Norful: 2
+Shelley Moore Capito: 2
+Katrina Kaif: 2
+Jackie Robinson: 2
+The One Show: 2
+Jayson Tatum: 2
+Prince Philip: 2
+A.J. Francis: 2
+Bad Bunny: 2
+Jordan Spieth: 2
+Mary Ng: 2
+Tony Evers: 2
+Stephen Fry: 2
+Foxwoods Resort Casino: 2
+Oculus: 2
+Owen Jones: 2
+Loona: 2
+Moonbin (ASTRO): 2
+Greg Hardy: 2
+Justin Fairfax: 2
+Richard Burr: 2
+Keanu Reeves: 2
+Juan Hidalgo: 2
+Kids' fashion: 2
+Stephen King: 2
+Golden Knights at Avalanche: 2
+Ryan Reaves: 2
+Richard Cheese: 2
+JUNGWOO: 2
+Cody Rhodes: 2
+Fabolous: 2
+Kyle Walker: 2
+2021 Indianapolis 500: 2
+John Terry: 2
+Watchmen: 2
+Kyler Murray: 2
+Potato recipes: 2
+Coolio: 2
+Jennifer Aniston: 2
+Richard Blumenthal: 2
+Day 1: 2
+Berserk: 2
+How to Get Away With Murder: 2
+Lena Waithe: 2
+Yankees at Tigers: 2
+Vince Gill: 2
+Wendell Pierce: 2
+John McCain: 2
+Litecoin cryptocurrency: 2
+Peter Bosz: 2
+Tom Perez: 2
+Dahyun: 2
+Mary Tyler Moore: 2
+Nintendo Switch: 2
+Grayson Allen: 2
+Crash Course: 2
+Summer Walker: 2
+Islanders at Bruins: 2
+Jeff Jarvis: 2
+The Game: 2
+Tia Mowry: 2
+Alanis Morissette: 2
+Annie Lennox: 2
+Ben Carson: 2
+Okieriete Onaodowan: 2
+Yaya Toure: 2
+Pep Guardiola: 2
+Stephanie Murphy: 2
+DJ Khaled: 2
+Marlins at Red Sox: 2
+Chromatica: 2
+Little Monsters: 2
+BT: 2
+Matt Barnes: 2
+Maple Leafs at Canadiens: 2
+2 Chainz: 2
+Eddie Murphy : 2
+Marriott Hotels: 2
+Rebecca Hall: 2
+Harry's: 2
+Addison Rae: 2
+Nicolle Wallace: 2
+Trymaine Lee: 2
+Marisha Ray: 2
+Andrew Holness: 2
+Dr. Dre: 2
+Michael Vick: 2
+Jason Riley: 2
+Clippers at Mavericks: 2
+Lucifer: 2
+Once Upon a Time: 2
+Andrew J. West: 2
+Jesse Spencer: 2
+Josh Dallas: 2
+Rick Wilson: 2
+Nicolás Maduro: 2
+Rahul Gandhi: 2
+Daniel Dae Kim: 2
+Tim Kang: 2
+Wiz Khalifa: 2
+Fat Joe: 2
+First Comes Love, Then Comes …: 2
+Aerial Powers: 2
+Sylvia Fowles: 2
+Kayla McBride: 2
+Natalie Achonwa: 2
+Leigh-Anne Pinnock: 2
+Rania Khalek: 2
+Gayle King: 2
+Christina Aguilera: 2
+Pet Shop Boys: 2
+Pop Smoke: 2
+Yo Gotti: 2
+Dana Loesch: 2
+Raheem DeVaughn: 2
+Gap: 2
+Levi's: 2
+Lululemon Athletica: 2
+Nick Wright: 2
+Wendy Davis: 2
+The Bible: 1
+General Electric: 1
+PMO India: 1
+Italy: 1
+Being Mary Jane: 1
+Lift Every Voice: 1
+To Kill A Mockingbird by Harper Lee: 1
+Cannes Film Festival 2021: 1
+Hershey's: 1
+Mars: 1
+Blac Chyna: 1
+The Late Show with Stephen Colbert: 1
+Nathan Lane; Griff: 1
+The Division: 1
+The Division 2: 1
+Chicago Bears: 1
+Watch What Happens: Live: 1
+Watch What Happens Live With Andy Cohen: 1
+Django Unchained: 1
+Western films: 1
+San Antonio Spurs: 1
+Chuck E Cheese: 1
+The Verge: 1
+Osamake: 1
+Real Madrid CF: 1
+Musical composition: 1
+Eyeliner: 1
+Dietary Supplements: 1
+That's So Raven: 1
+ReBoot: The Guardian Code (Netflix): 1
+Charmed: 1
+Stanford University: 1
+New York Rangers: 1
+Telugu cinema: 1
+Fatal Frame: 1
+Google For Education: 1
+Skype Classroom: 1
+Cognizant: 1
+Comedy Central: 1
+Sleep Number: 1
+GEICO: 1
+Progressive: 1
+Big Data: 1
+Pi'erre Bourne: 1
+Morgan Stanley: 1
+Stoke City FC: 1
+Charles Darwin: 1
+Persona: 1
+Queen Sugar: 1
+As Aventuras de Jimmy Neutron, Menino Gênio: 1
+Athletico PR x Flamengo: 1
+Orioles at Indians: 1
+Cleveland Indians: 1
+Acting Normal: 1
+Crackdown: 1
+Adidas Running: 1
+Healthy Eating: 1
+Red Sox at Braves: 1
+Lin-Manuel Miranda‏: 1
+Scrubs: 1
+PSV Eindhoven: 1
+The Snoopy Show  : 1
+Peanuts: 1
+GMC: 1
+ViacomCBS: 1
+The Situation Room: 1
+AT&T Business: 1
+San Francisco 49ers: 1
+Tampa Bay Buccaneers: 1
+Madden 17: 1
+Domino's Pizza: 1
+Impractical Jokers USA: 1
+Luxury travel: 1
+CNET: 1
+Australian Open: 1
+Yasuke: 1
+Winnie the Pooh: 1
+Zoom: 1
+Ulta Beauty: 1
+Pudding: 1
+Mushroom recipes: 1
+Cycling: 1
+東京リベンジャーズ: 1
+Olympic Rugby: 1
+Toronto Blue Jays: 1
+L'Oreal: 1
+Twitter Spaces: 1
+Cleveland Cavaliers: 1
+Rock climbing: 1
+Hiking: 1
+Southwest Airlines: 1
+Ye (Kanye West): 1
+Golf - The Memorial Tournament: 1
+US Open Golf Championship 2021: 1
+Golf: 1
+Men's golf: 1
+Homegoing by Yaa Gyasi: 1
+Bowling: 1
+Oracle: 1
+Sephora: 1
+Supergirl: 1
+O Mother, Where Art Thou?: 1
+Capital Group: 1
+James Comey: 1
+Business travel: 1
+Metroid: 1
+It's Not Rocket Science: 1
+Back to the Future: 1
+Orlando City SC: 1
+PricewaterhouseCoopers: 1
+Arrow: 1
+Google Docs: 1
+OnlyFans: 1
+CAF Champions League: 1
+Sun cream: 1
+Olympic Gymnastics: 1
+FC Bayern Munich: 1
+British Army: 1
+British Armed Forces: 1
+Minnesota United: 1
+Pentax: 1
+King Arthur: 1
+Gotham: 1
+Super Smash Bros.: 1
+Super Smash Bros. Ultimate: 1
+Chevrolet - Suburban: 1
+Royal Ascot 2021: 1
+Windows 10: 1
+Catch-22: 1
+The Voice: 1
+Satya Nadella: 1
+Toyota - Prius: 1
+Sedans: 1
+The Daily Social Distancing Show: 1
+Action & adventure books: 1
+Celebrity Gogglebox: 1
+僕のヒーローアカデミア: 1
+地縛少年 花子くん: 1
+Blemish and acne treatment: 1
+Face Masks: 1
+Luke Cage (Netflix): 1
+Augmented reality: 1
+Vintage cars: 1
+Padres at Rockies: 1
+9-1-1: 1
+Ratchet & Clank: 1
+Lendas do Amanhã: 1
+Dawson's Creek: 1
+New York, Unité Spéciale: 1
+Closet: 1
+Amazon Books: 1
+Dark Souls: 1
+FromSoftware: 1
+Sweden: 1
+Music of Kenya: 1
+MINI: 1
+MINI - Cooper: 1
+Poland vs Slovakia: 1
+Czech Republic: 1
+Donna Brazile: 1
+Sharp Objects: 1
+Location, Location, Location: 1
+Iphone 12: 1
+Vodafone: 1
+itch.io: 1
+The Coca-Cola Company: 1
+Indie pop: 1
+Luther: 1
+Bacon: 1
+The BRIT Awards 2018: 1
+Zee News: 1
+Matic Network cryptocurrency: 1
+Books arts: 1
+Bumble: 1
+Yankees at Phillies: 1
+MLB World Series: 1
+Monero cryptocurrency: 1
+Vertcoin Cryptocurrency: 1
+US Electoral College: 1
+Tupperware: 1
+LEGO Masters: 1
+All Shook Up: 1
+Pillow Talk: All Shook Up: 1
+Neon Genesis Evangelion: 1
+Chicago Blackhawks: 1
+Metal Gear: 1
+Halo: 1
+Halo Infinite: 1
+Solar Power: 1
+Call of Duty: Black Ops 4: 1
+High Velocity; The Last Slave Ship; Simone Biles: 1
+Lord Alan Sugar: 1
+Israeli Knesset: 1
+Eric Trump: 1
+Indeed: 1
+Indeed (UK): 1
+Adult education: 1
+Jeans: 1
+Audible: 1
+All in the Family: 1
+Men's Final: Novak Djokovic v Stefanos Tsitsipas: 1
+The National: 1
+Caesars Palace Las Vegas: 1
+On The Record: 1
+On the Record: 1
+Swansea City AFC: 1
+Borderlands: 1
+Brazil vs Venezuela: 1
+Venezuela: 1
+Peru: 1
+The Underground Railroad by Colson Whitehead: 1
+Toshiba: 1
+The 27th Annual Screen Actors Guild Awards 2021: 1
+MARGINAL #4: 1
+Far Cry: 1
+Columbus Crew: 1
+This Morning: 1
+Olympic Swimming: 1
+Railway transport: 1
+Catfish: The TV Show: 1
+The Nightmare Before Christmas: 1
+Holiday films: 1
+The Last Dance: 1
+Audi: 1
+Unsaid Stories: 1
+2017 NHL Awards: 1
+2018 NHL Awards: 1
+NBA Awards 2021: 1
+Ralphs Grocery: 1
+Finland: 1
+Education Week - Teacher: 1
+JK Rowling: 1
+Nails: 1
+Detroit Lions: 1
+Rock and Roll Hall of Fame: 1
+Later Live... with Jools Holland: 1
+mixed-ish: 1
+IMDb: 1
+ATPテニス : 1
+Viki: 1
+Brentford FC: 1
+Kate Middleton: 1
+Fenty Beauty: 1
+Give and Take: 1
+Philadelphia Eagles: 1
+Kansas City Chiefs: 1
+Kansas City Royals: 1
+Missouri Tigers: 1
+St. Louis Cardinals: 1
+Yakuza: 1
+SunTrust: 1
+United States Olympic Team: 1
+Prezi: 1
+Rick Perry: 1
+Crash Bandicoot: 1
+Animation software: 1
+John Roberts: 1
+Men's Semi-Finals: 1
+Pizza Hut: 1
+Mock the Week: 1
+Starlink: Battle for Atlas: 1
+Ramo: 1
+Live: UEFA Nations League Football: 1
+UEFA Nations League: 1
+Sense8 (Netflix): 1
+Sense 8: 1
+Tanqueray: 1
+Body sprays and deodorant: 1
+Bridge: 1
+Brené Brown: 1
+Mean Girls: 1
+The Tonight Show Starring Jimmy Fallon: 1
+Jason Momoa; Rose Byrne; Clairo: 1
+Obey Me!: 1
+The End Part 2: 1
+Alex Morgan: 1
+Assassin's Creed: 1
+State Farm: 1
+State Farm - Jake: 1
+Hannibal: 1
+UnitedHealthcare: 1
+The O'Reilly Factor: 1
+Bill O'Reilly: 1
+350.org: 1
+Porsche: 1
+Performance vehicles: 1
+Bodybuilding: 1
+Fallout: 1
+Lipstick: 1
+Tampa Bay Rays: 1
+Washington Nationals: 1
+Washington Capitals: 1
+Oxfam: 1
+Navy Midshipmen: 1
+New Zealand: 1
+Queer Eye (Netflix): 1
+Carlos González: 1
+Global News Podcast : 1
+Hotwire.com: 1
+Dia de los Muertos: 1
+Last Podcast on the Left: 1
+Adidas Football: 1
+LOUD Esports: 1
+Yankees at Twins: 1
+Atlético GO x Corinthians: 1
+Copa do Brasil: 1
+Rolls-Royce: 1
+Durex: 1
+Mixer: 1
+Data centers: 1
+Never Before Scene 1103: 1
+Overexposed: 1
+Subway: 1
+Mission Impossible 7: 1
+Bachelor Happy Hour : 1
+Need for Speed: 1
+Mask Singer ES: 1
+Heavy metal: 1
+Beetlejuice: 1
+Lionsgate: 1
+Lionsgate Films: 1
+Summertime (Netflix): 1
+Rage: 1
+Canoeing & kayaking: 1
+Unforgettable: 1
+Dreams: 1
+Bar Rescue: 1
+水曜日のダウンタウン: 1
+Jack Ma: 1
+Bungie: 1
+Baltimore Ravens: 1
+Perfumes: 1
+Movie news and general info: 1
+Circle K: 1
+Circle K (サークルK): 1
+True Beauty: 1
+Queensland Maroons vs New South Wales Blues: 1
+State of Origin: 1
+Indie rock: 1
+Nubank: 1
+Berkshire Hathaway: 1
+Ethnic Foods: 1
+ABC World News With David Muir: 1
+Nomadland: 1
+The Little Mermaid: 1
+Dancing With the Stars: 1
+Portland Timbers: 1
+Family Matters: 1
+Good-Bye Vibrations: 1
+Bloodline (Netflix): 1
+Venezuela vs Uruguay: 1
+SEO: 1
+Mary Lea Trump: 1
+Star Wars Jedi: Fallen Order: 1
+Death Stranding: 1
+H&M USA: 1
+Wheel of Fortune: 1
+Father's Day: 1
+Colgate: 1
+Philadelphia Flyers: 1
+Ecuador vs Peru: 1
+Zoey's Extraordinary Playlist: 1
+Physical Therapy: 1
+Capital One: 1
+Beauty and the Beast: 1
+Newsweek: 1
+Princess Diana: 1
+Dropbox: 1
+Starz: 1
+Pro Evolution Soccer: 1
+Adopt Me: 1
+Live: College Football: 1
+Ole Miss Rebels: 1
+John Deere : 1
+POSCA (ポスカ): 1
+Betfair: 1
+Jeep - Wrangler: 1
+International Space Station: 1
+Reputation (Taylor Swift): 1
+Magic: The Gathering: 1
+Trading card games: 1
+Pokémon Trading Card Game: 1
+Yu-Gi-Oh! Trading Card Game: 1
+YU-GI-OH!: 1
+Facebook Marketplace: 1
+French fries: 1
+Elder care: 1
+Postmates: 1
+Arianators: 1
+It's Better When a Woman is in Charge: 1
+Bristol City: 1
+Scarlet Nexus: 1
+Hockey Night in Canada: 1
+Edmonton Oilers: 1
+Sportsnet - #ItsOn: 1
+Slate: 1
+Winn-Dixie: 1
+Venom: Let There Be Carnage: 1
+Stormy Daniels: 1
+ESPN W: 1
+Last Man Standing: 1
+A Moving Finale: 1
+Toyota - Tacoma: 1
+Day 9: 1
+The Ellen DeGeneres Show: 1
+Ricky Martin; Carey Hart; Crowded House: 1
+Persian Cat: 1
+Only Connect: 1
+Godzilla vs Kong: 1
+King Kong: 1
+Apple Facetime: 1
+Tax planning: 1
+Travel Deals: 1
+Jamal Bryant: 1
+Inside the NFL: 1
+Band-Aid: 1
+Kit Kat: 1
+Google Play: 1
+Squats: 1
+Ty Dillon: 1
+XFINITY: 1
+Cobra Kai: 1
+New Japan Pro Wrestling: 1
+Guitar: 1
+Lethal Weapon: 1
+Texas Rangers: 1
+Live Nation: 1
+BBC News at Ten: 1
+Lidl: 1
+Charles Manson: 1
+Desus & Mero: 1
+Neal Katyal: 1
+São Paulo: 1
+Winnipeg Jets: 1
+Dallas Stars: 1
+Toyota / Save Mart 350: 1
+Native Son: 1
+The Bachelor: The Greatest Seasons - Ever!: 1
+The 40th Annual Kennedy Center Honors: 1
+Happiness: 1
+Celtic FC: 1
+Sheffield Wednesday: 1
+Wolves: 1
+Wigan Athletic: 1
+Southampton FC: 1
+Anne with an E (Netflix): 1
+Bounce TV: 1
+Fulham FC: 1
+Rupert Murdoch: 1
+WWE 2K: 1
+Clemson Tigers: 1
+Cardiff City FC: 1
+Stadia: 1
+Cloud gaming: 1
+Snickers: 1
+Emirates Airline: 1
+Serie A: 1
+We Can Be Heroes: 1
+The Angelus: 1
+Mercedes AMG F1: 1
+The Onion: 1
+The Legend of Zelda: 1
+Ashok Swain: 1
+The Joe Rogan Experience: 1
+Entertainment Weekly: 1
+Marie Claire: 1
+Portland Thorns FC: 1
+National Women's Soccer League: 1
+Landscaping: 1
+Dallas Wings: 1
+Chemistry: 1
+ID:INVADED イド:インヴェイデッド: 1
+Prince Charles: 1
+Houston Rockets: 1
+Tigers at White Sox: 1
+Detroit Tigers: 1
+Detroit: Become Human: 1
+Jane Austen: 1
+Outdoor workouts: 1
+Face Serums: 1
+Hair gel & spray: 1
+Bill Nye: 1
+Sprinklr: 1
+KLM: 1
+GP do Azerbaijão: Treino Oficial: 1
+Organic foods: 1
+Azerbaijan Grand Prix, Qualifying: 1
+Azerbaijan Grand Prix, Practice 3: 1
+Bong Joon-ho: 1
+Dragon Age: 1
+Civilization: 1
+Harvest Moon: 1
+The Memorial Tournament, Second Round: 1
+United Airlines: 1
+Carlos: 1
+The Dan Le Batard Show: 1
+Dance & electronic: 1
+2017 CrossFit Games: 1
+Men's tennis: 1
+Ford: 1
+Ford Latino: 1
+Crystal Palace FC: 1
+O.J. Simpson: 1
+Top of the Pops: 1
+Prosecco: 1
+Rick Santorum: 1
+M&M's: 1
+Minivans: 1
+Karen McDougal: 1
+Jeopardy!: 1
+Soul music: 1
+Day 6: 1
+Frozen: 1
+Malala: 1
+Unilever: 1
+KuwaitNews (كويت نيوز): 1
+GoArmy: 1
+Disabled American Veterans: 1
+Foot Locker: 1
+Dodge: 1
+Tim Cook: 1
+General Mills: 1
+Post Foods: 1
+Gaming: 1
+The First 48: 1
+Amanpour and Company: 1
+Nike Skateboarding: 1
+Nike.com: 1
+Coursera: 1
+Amphibia: 1
+Cumbia: 1
+Camping: 1
+BBC London News: 1
+Law & Order: 1
+Law & Order: UK: 1
+Madison Square Garden: 1
+Burberry: 1
+Oscar Wilde: 1
+Six Flags: 1
+Field Hockey: 1
+Norton: 1
+Norton (UK): 1
+Quentin Tarantino: 1
+Natwest: 1
+Soft rock: 1
+Camdaki Kiz: 1
+The Sims: 1
+Summer Game Fest 2021: 1
+Exxon: 1
+XXL Magazine: 1
+Used Cars: 1
+Used Vehicle: 1
+Devil May Cry: 1
+Alien: 1
+Predator: 1
+Sen Cal Kapimi: 1
+Melinda Gates: 1
+Bill & Melinda Gates Foundation: 1
+iGOT7: 1
+NCTzen: 1
+Carat: 1
+Monbebe: 1
+Universal Music: 1
+Shiba Inu: 1
+Glitch Techs (Netflix): 1
+The X Factor: 1
+The X Factor (TV3): 1
+X-Factor Brasil: 1
+Job fairs: 1
+Good Girls: 1
+Can Yaman: 1
+Xiaomi: 1
+Épisode 17 : demi-finale: 1
+Unsolved: The Murders of Tupac and The Notorious B.I.G.: 1
+Bethesda: 1
+Cartoon Network: 1
+Sister, Sister: 1
+Anthem: 1
+The Man in the High Castle: 1
+Federal Communications Commission: 1
+wtFOCK: 1
+Boys & Girls Clubs: 1
+Housewarming Parties: 1
+Holiday Shopping: 1
+The Grove LA: 1
+TF1: 1
+ReVeluv: 1
+Mets at Diamondbacks: 1
+Live: Six Nations Rugby: 1
+Rugby : Tournoi des VI Nations 2018: 1
+女子プロゴルフ: 1
+Lands' End: 1
+Cardcaptor Sakura: 1
+Arena: 1
+Royal Albert Hall: 1
+WWE Supercard: 1
+Oral care: 1
+ダンガンロンパ: 1
+Lovecraft Country: 1
+AlRiyadh Daily: 1
+Diets: 1
+Ketogenic Diet: 1
+Trumpet: 1
+Deloitte: 1
+Deloitte Digital: 1
+Potterheads: 1
+Kodak: 1
+Street Fighter: 1
+The Real Housewives of Potomac: 1
+Matthew Shepard: 1
+Women's intimates and hosiery: 1
+Mortal Kombat (2021): 1
+Will.I.Am: 1
+Lip Pencil: 1
+Mario Kart: 1
+Visa: 1
+Sheetz: 1
+Extra Life: A Short History of Living Longer: 1
+Behavior: 1
+Ballislife: 1
+Piers Morgan's Life Stories: 1
+Sir Keir Starmer: 1
+Longmire (Netflix): 1
+KNBR 680: 1
+KNBR: 1
+The Owl House: 1
+7-Eleven: 1
+Johnson's Baby: 1
+CFL Football: 1
+Hamilton Tiger-Cats: 1
+CFL: 1
+Marilyn Monroe: 1
+Red Rock: 1
+American Horror Story: 1984: 1
+Tennis: 1
+Waffles + Mochi: 1
+The Last of Us: 1
+Malcolm: 1
+2017 Miss USA: 1
+Andrew Ross Sorkin: 1
+Becky Quick: 1
+Warren Buffet: 1
+Olympic Soccer: 1
+Ivory Coast: 1
+Duolingo: 1
+Energy.gov: 1
+Ruth Bader Ginsburg: 1
+The Me You Can't See: 1
+Tom Fitton: 1
+The Ben Shapiro Show: 1
+JetBlue Airways: 1
+BMO (Bank of Montreal): 1
+American Experience: 1
+ワンピース: 1
+Studio Ghibli: 1
+Life is Strange: 1
+The Wire: 1
+Imagine...: 1
+Fear Factor: 1
+The Fosters: 1
+Teen Vogue: 1
+Macaron: 1
+SOUR: 1
+Chicago Bulls: 1
+Friday: 1
+Roseanne: 1
+Better Call Saul: 1
+Better Call Saul (Netflix UK): 1
+ESPN First Take: 1
+The Martin Lewis Money Show: 1
+This Week: 1
+Coca-Cola 600: 1
+Middle-earth: 1
+Popcorn: 1
+TripAdvisor: 1
+God of War: 1
+Ragnarök Online: 1
+Colorado Avalanche: 1
+Vegas Golden Knights: 1
+Something Old, Something New: 1
+Athletico PR x América MG: 1
+Lowe's: 1
+The Ren & Stimpy Show: 1
+Android development: 1
+iOS development: 1
+Paramount: 1
+Mare of Easttown: 1
+Orioles at White Sox: 1
+Taco Bell: 1
+Hey Arnold!: 1
+Ei Arnold!: 1
+ヒーローズ : 1
+Salem: 1
+GMC - Hummer EV: 1
+Murder: 1
+Cómo defender a un asesino: 1
+Hot dogs: 1
+Auto racing: 1
+Sausage: 1
+Stargirl: 1
+People: 1
+Iyanla, Fix My Life: 1
+Seinfeld: 1
+Google Now: 1
+The Sunday Supplement: 1
+Westworld: 1
+Nintendo Wii: 1
+Employee experience: 1
+Randy Quaid: 1
+AJ+: 1
+Roku: 1
+Latter-day Saints: 1
+Nailed It (Netflix): 1
+Krista Vernoff: 1
+Fishing: 1
+Electric: 1
+PG&E: 1
+Origami: 1
+Easter: 1
+Big Brother UK: 1
+The Apprentice: 1
+New York vs Orlando: 1
+USA - Soccer: 1
+North America - Soccer: 1
+Supercars: 1
+Shaving and grooming: 1
+Shaving: 1
+Dollar Shave Club: 1
+Allen Weisselberg: 1
+Princess Diaries: 1
+Sushi: 1
+Tequila: 1
+Faites entrer l'accusé: 1
+WION: 1
+Shell: 1
+The 700 Club: 1
+iHeart Living Room Concert for America: 1
+Panic: 1
+Zack Snyder's Justice League: 1
+HGTV: 1
+Steam: 1
+Body Piercings: 1
+Jersey Shore: 1
+Jersey Shore: Family Vacation: 1
+National Geographic Channel: 1
+Coca Cola 600, Practice: 1
+This is America: 1
+Cars 3: 1
+Braves at Mets: 1
+All Rise: 1
+Kill Bill: 1
+Cult classics: 1
+Borussia Dortmund: 1
+Lululemon - Men: 1
+The Nevers: 1
+Live: Superleague Netball: 1
+Sea World: 1
