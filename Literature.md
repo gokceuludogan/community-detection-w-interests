@@ -12,3 +12,4 @@
 
 * Personalized advanced search for Twitter
 
+* Identify influencers for a particular topic/hashtag?
