@@ -1,137 +1,143 @@
 <?xml version="1.0"?>
-<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+<rdf:RDF xmlns="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#"
      xml:base="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     ontologyIRI="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests">
-    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
-    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
-    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
-    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
-    <Prefix name="foaf" IRI="http://xmlns.com/foaf/0.1/"/>
-    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
-    <Declaration>
-        <Class IRI="#InteractionLevel"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Interest"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#User"/>
-    </Declaration>
-    <Declaration>
-        <Class abbreviatedIRI="foaf:Agent"/>
-    </Declaration>
-    <Declaration>
-        <Class abbreviatedIRI="foaf:Group"/>
-    </Declaration>
-    <Declaration>
-        <Class abbreviatedIRI="foaf:Organization"/>
-    </Declaration>
-    <Declaration>
-        <Class abbreviatedIRI="foaf:Person"/>
-    </Declaration>
-    <Declaration>
-        <ObjectProperty IRI="#hasInterest"/>
-    </Declaration>
-    <Declaration>
-        <ObjectProperty IRI="#interactionScale"/>
-    </Declaration>
-    <Declaration>
-        <ObjectProperty IRI="#interacts"/>
-    </Declaration>
-    <Declaration>
-        <ObjectProperty IRI="#mention"/>
-    </Declaration>
-    <Declaration>
-        <ObjectProperty IRI="#retweet"/>
-    </Declaration>
-    <SubClassOf>
-        <Class abbreviatedIRI="foaf:Agent"/>
-        <Class IRI="#Interest"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class abbreviatedIRI="foaf:Group"/>
-        <Class IRI="#Interest"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class abbreviatedIRI="foaf:Organization"/>
-        <Class IRI="#Interest"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class abbreviatedIRI="foaf:Person"/>
-        <Class IRI="#Interest"/>
-    </SubClassOf>
-    <DisjointClasses>
-        <Class IRI="#Interest"/>
-        <Class IRI="#User"/>
-    </DisjointClasses>
-    <SubObjectPropertyOf>
-        <ObjectProperty IRI="#hasInterest"/>
-        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
-    </SubObjectPropertyOf>
-    <SubObjectPropertyOf>
-        <ObjectProperty IRI="#interactionScale"/>
-        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
-    </SubObjectPropertyOf>
-    <SubObjectPropertyOf>
-        <ObjectProperty IRI="#interacts"/>
-        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
-    </SubObjectPropertyOf>
-    <SubObjectPropertyOf>
-        <ObjectProperty IRI="#mention"/>
-        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
-    </SubObjectPropertyOf>
-    <SubObjectPropertyOf>
-        <ObjectProperty IRI="#retweet"/>
-        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
-    </SubObjectPropertyOf>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#hasInterest"/>
-        <Class IRI="#InteractionLevel"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#interactionScale"/>
-        <Class IRI="#InteractionLevel"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#interacts"/>
-        <Class IRI="#User"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#mention"/>
-        <Class IRI="#InteractionLevel"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyDomain>
-        <ObjectProperty IRI="#retweet"/>
-        <Class IRI="#InteractionLevel"/>
-    </ObjectPropertyDomain>
-    <ObjectPropertyRange>
-        <ObjectProperty IRI="#hasInterest"/>
-        <Class IRI="#Interest"/>
-    </ObjectPropertyRange>
-    <ObjectPropertyRange>
-        <ObjectProperty IRI="#interactionScale"/>
-        <DataSomeValuesFrom>
-            <DataProperty abbreviatedIRI="owl:topDataProperty"/>
-            <Datatype abbreviatedIRI="xsd:float"/>
-        </DataSomeValuesFrom>
-    </ObjectPropertyRange>
-    <ObjectPropertyRange>
-        <ObjectProperty IRI="#interacts"/>
-        <Class IRI="#InteractionLevel"/>
-    </ObjectPropertyRange>
-    <ObjectPropertyRange>
-        <ObjectProperty IRI="#mention"/>
-        <Class IRI="#User"/>
-    </ObjectPropertyRange>
-    <ObjectPropertyRange>
-        <ObjectProperty IRI="#retweet"/>
-        <Class IRI="#User"/>
-    </ObjectPropertyRange>
-</Ontology>
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#hasInterest -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#hasInterest">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#InteractionLevel"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#Interest"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#interactionScale -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#interactionScale">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#InteractionLevel"/>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#interacts -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#interacts">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#User"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#InteractionLevel"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#mention -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#mention">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#InteractionLevel"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#User"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#retweet -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#retweet">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#InteractionLevel"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#User"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#InteractionLevel -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#InteractionLevel"/>
+    
+
+
+    <!-- http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#Interest -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#Interest">
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#User"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#User -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#User"/>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/Agent -->
+
+    <owl:Class rdf:about="http://xmlns.com/foaf/0.1/Agent">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#Interest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/Group -->
+
+    <owl:Class rdf:about="http://xmlns.com/foaf/0.1/Group">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#Interest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/Organization -->
+
+    <owl:Class rdf:about="http://xmlns.com/foaf/0.1/Organization">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#Interest"/>
+    </owl:Class>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/Person -->
+
+    <owl:Class rdf:about="http://xmlns.com/foaf/0.1/Person">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#Interest"/>
+    </owl:Class>
+</rdf:RDF>
 
 
 
