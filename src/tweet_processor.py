@@ -18,13 +18,15 @@ logging.getLogger().setLevel(logging.INFO)
 
 class TweetProcessor:
 
-	def __init__(self):
-
-		self.dbpedia_nlp = spacy.load('en_core_web_sm')
-		self.dbpedia_nlp.add_pipe('dbpedia_spotlight')
-
-		self.wikidata_nlp = spacy.load('en_core_web_sm')
-		self.wikidata_nlp.add_pipe('opentapioca')
+	def __init__(self, dbpedia=True, wikidata=False):
+		self.dbpedia = dbpedia
+		self.wikidata = wikidata
+		if self.dbpedia:
+			self.dbpedia_nlp = spacy.load('en_core_web_sm')
+			self.dbpedia_nlp.add_pipe('dbpedia_spotlight')
+		if self.wikidata:
+			self.wikidata_nlp = spacy.load('en_core_web_sm')
+			self.wikidata_nlp.add_pipe('opentapioca')
 
 
 	def process(self, tweet):
@@ -35,6 +37,7 @@ class TweetProcessor:
 			text = p.clean(tweet['TweetText'])
 			parsed_tweet = p.parse(tweet['TweetText'])
 
+			logging.info(f'Processing: {text}')
 
 			if tweet['collector'] == 'scraper':
 				tweet['TweetID'] = tweet['Tweet URL'].split('/')[-1]
@@ -48,16 +51,23 @@ class TweetProcessor:
 					tweet['mentions'] = ';'.join([f'{mention["screen_name"]},{mention["id_str"]}' for mention in entities['user_mentions']])
 				else:
 					tweet['mentions'] = ''
-
-			dbpedia_ent = self.dbpedia_nlp(text)
-			wd_ent = self.wikidata_nlp(text)
-			db_ents = [(ent.text, ent.label_, ent.kb_id_, ent._.description, ent._.dbpedia_raw_result['@similarityScore'] if ent._.dbpedia_raw_result is not None else '', ent._.dbpedia_raw_result['@types'] if ent._.dbpedia_raw_result is not None else '') 
-				for ent in dbpedia_ent.ents if ent.label_ not in ['CARDINAL', 'PERCENT']]
-			tweet['db_ents'] = ';'.join([','.join([f'"{item}"' if item is not None else '' for item in ent]) for ent in db_ents])
-			wd_ents = [(ent.text, ent.label_, ent.kb_id_, ent._.description, ent._.score) for ent in wd_ent.ents if ent.label_ not in ['CARDINAL', 'PERCENT']]
-			tweet['wd_ents'] = ';'.join([','.join([f'"{item}"' if item is not None else '' for item in ent]) for ent in wd_ents])
+			if text != '':
+				if self.dbpedia:
+					dbpedia_ent = self.dbpedia_nlp(text)
+					db_ents = [(ent.text, ent.label_, ent.kb_id_, ent._.dbpedia_raw_result['@similarityScore'] if ent._.dbpedia_raw_result is not None else '', ent._.dbpedia_raw_result['@types'] if ent._.dbpedia_raw_result is not None else '') 
+						for ent in dbpedia_ent.ents if ent.label_ not in ['CARDINAL', 'PERCENT']]
+					tweet['db_ents'] = ';'.join([','.join([f'"{item}"' if item is not None else '' for item in ent]) for ent in db_ents])
+				else:
+					tweet['db_ents'] = ''
+				if self.wikidata:
+					wd_ent = self.wikidata_nlp(text)
+					wd_ents = [(ent.text, ent.label_, ent.kb_id_, ent._.score) for ent in wd_ent.ents if ent.label_ not in ['CARDINAL', 'PERCENT']]
+					tweet['wd_ents'] = ';'.join([','.join([f'"{item}"' if item is not None else '' for item in ent]) for ent in wd_ents])
+				else:
+					tweet['wd_ents'] = ''
 		except Exception as e:
-			print(e)
+			logging.error(e)
+			logging.error(text)
 		return tweet
 
 if __name__ == '__main__':
@@ -68,15 +78,7 @@ if __name__ == '__main__':
 	logging.info(f'Processing tweets from {args.input}, output file: {args.output}')
 	processor = TweetProcessor()
 
-	# annotated_tweets = all_tweets.swifter.progress_bar(True).apply(processor.process, axis=1)
-	# annotated_tweets.to_csv('../data/annotated_tweets.csv')
-	# tweet_records = tweets.to_dict('records')
-	# annotated_tweets = [processor.process(record) for record in tqdm(tweet_records)]
-	# annotated_tweets = Parallel(n_jobs=5)(delayed(processor.process)(record) )
-
-	tweets = pd.read_csv(args.input).reset_index()[:100]
-	tweet_records = tweets.to_dict('records')
-	print(tweet_records[:3])
-	# annotated_tweets = tweets.progress_apply(processor.process, axis=1)
+	tweets = pd.read_csv(args.input).assign(collector='api').reset_index()
+	tweet_records = tweets.to_dict('records')[::-1]
 	annotated_tweets = Parallel(n_jobs=10, verbose=10)(delayed(processor.process)(record) for record in tqdm(tweet_records))
 	pd.DataFrame(annotated_tweets).to_csv(args.output)
