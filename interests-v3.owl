@@ -105,14 +105,6 @@
     
 
 
-    <!-- http://dbpedia.org/ontology/MusicalWork -->
-
-    <owl:Class rdf:about="http://dbpedia.org/ontology/MusicalWork">
-        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Work"/>
-    </owl:Class>
-    
-
-
     <!-- http://dbpedia.org/ontology/Organization -->
 
     <owl:Class rdf:about="http://dbpedia.org/ontology/Organization">
@@ -137,6 +129,14 @@
     
 
 
+    <!-- http://dbpedia.org/ontology/PopulatedPlace -->
+
+    <owl:Class rdf:about="http://dbpedia.org/ontology/PopulatedPlace">
+        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Place"/>
+    </owl:Class>
+    
+
+
     <!-- http://dbpedia.org/ontology/Region -->
 
     <owl:Class rdf:about="http://dbpedia.org/ontology/Region">
@@ -145,34 +145,10 @@
     
 
 
-    <!-- http://dbpedia.org/ontology/TelevisionWork -->
-
-    <owl:Class rdf:about="http://dbpedia.org/ontology/TelevisionWork">
-        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Work"/>
-    </owl:Class>
-    
-
-
     <!-- http://dbpedia.org/ontology/TopicalConcept -->
 
     <owl:Class rdf:about="http://dbpedia.org/ontology/TopicalConcept">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#Interest"/>
-    </owl:Class>
-    
-
-
-    <!-- http://dbpedia.org/ontology/Work -->
-
-    <owl:Class rdf:about="http://dbpedia.org/ontology/Work">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#Interest"/>
-    </owl:Class>
-    
-
-
-    <!-- http://dbpedia.org/ontology/WrittenWork -->
-
-    <owl:Class rdf:about="http://dbpedia.org/ontology/WrittenWork">
-        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Work"/>
     </owl:Class>
     
 
@@ -187,14 +163,6 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#Interest">
         <owl:disjointWith rdf:resource="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#User"/>
-    </owl:Class>
-    
-
-
-    <!-- http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#PopulatedPlace -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#PopulatedPlace">
-        <rdfs:subClassOf rdf:resource="http://dbpedia.org/ontology/Place"/>
     </owl:Class>
     
 

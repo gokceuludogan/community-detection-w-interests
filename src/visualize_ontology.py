@@ -9,7 +9,7 @@ from IPython.display import display, Image
 from rdflib.tools.rdf2dot import rdf2dot
 
 g = rdflib.Graph()
-result = g.parse('interests.owl', format='application/rdf+xml')
+result = g.parse('../interests-v3.owl', format='application/rdf+xml')
 
 
 def visualize(g):
