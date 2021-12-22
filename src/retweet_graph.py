@@ -8,18 +8,17 @@ regex = re.compile(r'[!"#$%&()*+,-./:;<=>?@[\]^_`{|}~]')
 pattern = re.compile(r'\s+')
 
 count = 0
-uniques_retweets=[]
+unique_retweets=[]
 # Strips the newline character
 for line in Lines:
     count += 1
     if len(line.strip())>0:
-        uniques_retweets.append(line.strip())
+        unique_retweets.append(line.strip())
 
-
-print(len(uniques_retweets))
 
 
 df = pd.read_csv("wd_annotated_tweets.csv", sep=",")
+#print(df.iloc[40])
 cnt=0
 usr=[]
 weights=[]
@@ -34,15 +33,15 @@ for index, row in df.iterrows():
         f = [0] * 1000
         cnt=cnt+1
 
-        x = retweets.split(";")
-        for k in range(len(x)):
-                    if x[k].find(",")>=0:
-                        x[k] = x[k][0:x[k].rindex(",")]
-                    x[k] = x[k].lower()
-                    x[k] = re.sub(pattern, '', x[k])
-                    x[k] = re.sub(regex, '', x[k])
-                    if x[k] in uniques_retweets:
-                        f[uniques_retweets.index(x[k])] += 1
+        rts = retweets.split(";")
+        for k in range(len(rts)):
+                    if rts[k].find(",")>=0:
+                        rts[k] = rts[k][0:rts[k].rindex(",")]
+                    rts[k] = rts[k].lower()
+                    rts[k] = re.sub(pattern, '', rts[k])
+                    rts[k] = re.sub(regex, '', rts[k])
+                    if rts[k] in unique_retweets:
+                        f[unique_retweets.index(rts[k])] += 1
 
 
         usr.append(username)
@@ -66,21 +65,24 @@ for i, inx in enumerate(df_res.index):
     user = re.sub(regex, '', user)
     tweet_uri = "http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#User/" + str(user)
     node = rdflib.URIRef(tweet_uri)
-    rtwt=df_res.loc[inx]
+    rt=df_res.loc[inx]
+
+
+
 
     inds=[]
     weights=[]
-    for ii, e in enumerate(rtwt):
+    for ii, e in enumerate(rt):
         if e!=0:
             inds.append(ii)
             weights.append(e)
 
-    rts=[]
+    rtwts=[]
     for k in inds:
-        rts.append(uniques_retweets[k])
+        rtwts.append(unique_retweets[k])
 
     inxx=0
-    for j in rts:
+    for j in rtwts:
         g.add((node, rdflib.URIRef(
             "http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#interacts"),
                rdflib.URIRef("http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#InteractionLevel/"+str(user)+"_"+str(j)+"_retweet")))
@@ -96,6 +98,7 @@ for i, inx in enumerate(df_res.index):
                rdflib.URIRef(str(weights[inxx]))))
 
         inxx =inxx+1
+
 
 
 twitter_retweets_fh = open("twitter_retweets.rdf", "w",  encoding="utf-8")
