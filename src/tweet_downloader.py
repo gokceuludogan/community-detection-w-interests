@@ -9,10 +9,10 @@ from Scweet.scweet import scrape
 from joblib import Parallel, delayed
 from pathlib import Path
 
-consumer_key = 'fUUC4KcibC0Ibezb8Yv4vFxkf'
-consumer_secret = '9ycumDsraLUHOxVylNM51YP975I904v81Lz0LAnSpsrlxJLUv7'
-access_token = '757556294110838784-GzqG678snZoj6yZGk6ugEJijkWtFGEx'
-access_token_secret = 'ALPdSW0373iLUZ3Kfhx62LU2dVLBD1I6aDJA0xwgQjP0O'
+consumer_key = CONSUMER_KEY
+consumer_secret = CONSUMER_SECRET
+access_token = ACCESS_TOKEN
+access_token_secret = ACCESS_TOKEN_SECRET
 
 logging.basicConfig()
 logging.getLogger().setLevel(logging.INFO)
