@@ -64,18 +64,23 @@ class Ontology:
   def add_interaction_list(self, triples, interaction_type):
     for user1, user2, weight in triples:
         self.add_interaction(user1, user2, weight, interaction_type)
+
+  def add_entity_list(self, triples):
+    for user, interest_type, interest in triples:
+        self.add_interest(user, interest_type, interest)
   
   
-  def add_interest(self, user, interest, interest_type):
+  def add_interest(self, user, interest_type, interest):
     user_uri = self.ns_interests[user] 
     self.add_node(user_uri, self.ns_interests.User)
 
+    interest=interest.replace("\"","").replace(" ","")
     interest_uri = self.ns_interests[interest] 
     # Interest type resolution
-    self.add_node(interest_uri, interest_type)
+    self.add_node(interest_uri, self.class_mapping[interest_type])
 
     has_interest = self.property_mapping['hasInterest']
-    self.graph.add((user, has_interest, interest_uri))
+    self.graph.add((user_uri, has_interest, interest_uri))
 
   def save(self, output_file):
     self.graph.serialize(destination=output_file, format='application/rdf+xml')
