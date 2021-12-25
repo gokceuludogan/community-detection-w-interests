@@ -20,6 +20,9 @@ class Ontology:
     ontology_uri_str = str(ontology_uriref)
 
     self.ns_interests = rdflib.Namespace(ontology_uri_str)
+    self.ns_dbo = rdflib.Namespace("http://dbpedia.org/ontology/")
+
+    self.graph.bind('dbo', self.ns_dbo) 
     self.graph.bind(ONTOLOGY_NAME, self.ns_interests)
 
     self.nm = self.graph.namespace_manager
@@ -27,7 +30,6 @@ class Ontology:
   
     self._map_classes()
     self._map_properties()
-
   
   def _map_classes(self):
     classes = [s for s, p, o in self.graph.triples((None, RDF.type , OWL.Class))]
@@ -74,9 +76,8 @@ class Ontology:
     user_uri = self.ns_interests[user] 
     self.add_node(user_uri, self.ns_interests.User)
 
-    interest=interest.replace("\"","").replace(" ","")
-    interest_uri = self.ns_interests[interest] 
-    # Interest type resolution
+    interest_uri = URIRef(interest) 
+
     self.add_node(interest_uri, self.class_mapping[interest_type])
 
     has_interest = self.property_mapping['hasInterest']
@@ -115,17 +116,34 @@ class Ontology:
     qres = self.query(q)
     return [item.topic for item in qres]
   
-  def get_all_interests(self):
+  def get_class_based_interests(self):
     q = f'''
     prefix {ONTOLOGY_NAME}: <{str(self.ns_interests)}>
-    SELECT DISTINCT ?user ?topic
+    SELECT DISTINCT ?user1 ?interest1 ?user2 ?interest2 ?interestType
     WHERE {{
-      ?user {ONTOLOGY_NAME}:hasInterest  ?topic .
+      ?user1 {ONTOLOGY_NAME}:hasInterest ?interest1 .
+      ?interest1 a ?interestType .
+      ?user2 {ONTOLOGY_NAME}:hasInterest ?interest2 . 
+      ?interest2 a ?interestType . 
+      FILTER(?user1 != ?user2) .
     }}
 
     '''
     qres = self.query(q)
-    return [(item.user, item.topic) for item in qres]
+    return [(item.user1, item.interest1, item.user2, item.interest2, item.interestType) for item in qres]
+
+  def get_all_interests(self):
+    q = f'''
+    prefix {ONTOLOGY_NAME}: <{str(self.ns_interests)}>
+    SELECT DISTINCT ?user ?interest ?interestType
+    WHERE {{
+      ?user {ONTOLOGY_NAME}:hasInterest  ?interest .
+      ?interest a ?interestType . 
+    }}
+
+    '''
+    qres = self.query(q)
+    return [(item.user, item.interest, item.interestType) for item in qres]
   
   def get_all_users(self):
     q = f'''
@@ -139,7 +157,7 @@ class Ontology:
     qres = self.query(q)
     return [item.user for item in qres]
 
-# ontology = Ontology('interests.owl')
+# ontology = Ontology('interests-v3.owl')
 # ontology.add_interaction('gokce', 'suzan', 1.0, 'mention')
 # ontology.add_interaction('gokce', 'idil', 0.1, 'retweet')
 # ontology.save('populated.owl')
