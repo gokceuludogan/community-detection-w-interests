@@ -13,9 +13,9 @@ filtered_retweets = [(user1, user2, weight) for user1, user2, weight in retweets
 ents_triplets = [(user, types, interests) for user, types, interests in ents]
 
 
-ontology = Ontology('../interests-v3.owl')
+ontology = Ontology('../interests-v4.owl')
 ontology.add_interaction_list(filtered_mentions, 'mention')
 ontology.add_interaction_list(filtered_retweets, 'retweet')
 ontology.add_entity_list(ents_triplets)
-ontology.save('../data/populated_interests_1000.owl')
+ontology.save('../data/model.rdf')
 

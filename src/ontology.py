@@ -14,7 +14,6 @@ class Ontology:
     self.graph = Graph()
     self.graph.parse(filename, format='application/rdf+xml')
     self.graph.bind("owl", OWL)
-    self.graph.bind("foaf", FOAF)
 
     ontology_uriref = [s for s, p, o in self.graph.triples((None, RDF.type, OWL.Ontology))][0]
     ontology_uri_str = str(ontology_uriref)
@@ -36,8 +35,9 @@ class Ontology:
     self.class_mapping = {str(class_).split('/')[-1].split('#')[-1]: class_ for class_ in classes}
     
   def _map_properties(self):
-    properties = [s for s, p, o in self.graph.triples((None, RDF.type  , OWL.ObjectProperty))]
-    self.property_mapping = {str(p).split('/')[-1].split('#')[-1]: p for p in properties}
+    object_properties = [s for s, p, o in self.graph.triples((None, RDF.type  , OWL.ObjectProperty))]
+    data_properties =  [s for s, p, o in self.graph.triples((None, RDF.type  , OWL.DatatypeProperty))]
+    self.property_mapping = {str(p).split('/')[-1].split('#')[-1]: p for p in object_properties + data_properties}
 
   def add_node(self, node, n_type):
     if (node, RDF.type, n_type) in self.graph:
@@ -52,16 +52,19 @@ class Ontology:
     self.add_node(user1_uri, self.ns_interests.User)
     self.add_node(user2_uri, self.ns_interests.User)
     
-    interaction_level_id = f'{user1}-{user2}-{interaction_type}' 
-    il_uri = self.ns_interests[interaction_level_id]
+    interaction_id = f'{user1}-{user2}-{interaction_type}' 
+    interaction_uri = self.ns_interests[interaction_id]
+    self.add_node(interaction_uri, self.ns_interests.Interaction)
 
-    interacts = self.property_mapping['interacts']
-    interaction_scale = self.property_mapping['interactionScale']
-    interaction = self.property_mapping[interaction_type]
+    fromUser = self.property_mapping['fromUser']
+    toUser = self.property_mapping['toUser']
+    interaction_scale = self.property_mapping['scale']
+    hasType = self.property_mapping['hasType']
 
-    self.graph.add((user1_uri, interacts, il_uri))
-    self.graph.add((il_uri, interaction, user2_uri))
-    self.graph.add((il_uri, interaction_scale, Literal(weight)))
+    self.graph.add((interaction_uri, fromUser, user1_uri))
+    self.graph.add((interaction_uri, toUser, user2_uri))
+    self.graph.add((interaction_uri, hasType, Literal(interaction_type)))
+    self.graph.add((interaction_uri, interaction_scale, Literal(weight)))
 
   def add_interaction_list(self, triples, interaction_type):
     for user1, user2, weight in triples:
@@ -93,16 +96,16 @@ class Ontology:
     q = f'''
     prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns/> 
     prefix {ONTOLOGY_NAME}: <{str(self.ns_interests)}>
-    SELECT DISTINCT ?user ?mentionedUser ?weight
+    SELECT DISTINCT ?fromUser ?toUser ?weight
     WHERE {{
-      ?user {ONTOLOGY_NAME}:interacts  ?il .
-      ?il {ONTOLOGY_NAME}:{interaction_type} ?mentionedUser .
-      ?il {ONTOLOGY_NAME}:interactionScale ?weight.
+      ?interaction {ONTOLOGY_NAME}:fromUser ?fromUser .
+      ?interaction {ONTOLOGY_NAME}:toUser ?toUser .
+      ?interaction {ONTOLOGY_NAME}:scale ?weight .
+      ?interaction {ONTOLOGY_NAME}:hasType "mention" .
     }}
-
     '''
     qres = self.query(q)
-    return [(row.user, row.mentionedUser, row.weight) for row in qres]
+    return [(row.fromUser, row.toUser, row.weight) for row in qres]
   
   def get_user_interests(self, user):
     q = f'''

@@ -10,48 +10,12 @@ from ontology import Ontology
 logger = logging.getLogger(__name__)
 logging.basicConfig(format='%(asctime)s.%(msecs)03d %(levelname)s %(module)s - %(funcName)s: %(message)s', level=logging.INFO)
 
-logging.info('Loading ontology...')
-ontology = Ontology('../data/populated_interests.owl') # sample.owl')
+logging.info('Loading data...')
 
-logging.info('Retrieving mentions...')
-mentions = ontology.get_all_interactions('mention')
+with open('../data/user_similarities.json') as f:
+	data = json.loads(f.read())
 
-logging.info('Retrieving retweets...')
-retweets = ontology.get_all_interactions('retweets')
-
-mention_dict = {(user1, user2): weight for user1, user2, weight in mentions}
-retweet_dict = {(user1, user2): weight for user1, user2, weight in retweets}
-
-logging.info('Retrieving interests...')
-
-interests = ontology.get_class_based_interests()
-#interests = ontology.get_all_interests()
-
-logging.info('Finding user interest similarities')
-interest_dict = {}
-for user1, interest1, user2, interest2, interest_type in interests:
-	if (user1, user2) not in interest_dict:
-		interest_dict[(user1, user2)] = {interest_type: {'common': interest1 == interest2, 'count': 1}}
-	else:
-		if interest_type not in interest_dict[(user1, user2)]:
-			interest_dict[(user1, user2)][interest_type] = {'common': interest1 == interest2, 'count': 1}
-		else:
-			interest_dict[(user1, user2)][interest_type]['common'] += (interest1 == interest2)
-			interest_dict[(user1, user2)][interest_type]['count'] += 1
-
-interest_user_sim = {}
-for user1, user2 in interest_dict:
-	counts = interest_dict[(user1, user2)]
-	interest_user_sim[(user1, user2)] = [counts[interest_type]['common'] / counts[interest_type]['count'] for interest_type in counts]	
-	
-
-
-logging.info('Constructing homogenoues graph')
-user_interest_dict = {pair: sum(class_sim)/len(class_sim) for pair, class_sim in interest_user_sim.items()}
-
-all_pairs = set(mention_dict).union(set(retweet_dict)).union(set(user_interest_dict))
-edges = {key: mention_dict.get(key, 0) + retweet_dict.get(key, 0) + user_interest_dict.get(key, 0) for key in all_pairs}
-
+edges = {key: value['mention'] + value['retweet'] + value['interest'] for key, value in data.items()}
 nodes = set([node for pair in edges.keys() for node in pair])
 
 G = nx.Graph()

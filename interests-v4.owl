@@ -34,6 +34,19 @@
     
 
 
+    <!-- http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#hasInterest -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#hasInterest">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#isInterestOf"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#User"/>
+        <rdfs:range rdf:resource="http://dbpedia.org/ontology/Agent"/>
+        <rdfs:range rdf:resource="http://dbpedia.org/ontology/Place"/>
+        <rdfs:range rdf:resource="http://dbpedia.org/ontology/TopicalConcept"/>
+    </owl:ObjectProperty>
+    
+
+
     <!-- http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#interactedWith -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#interactedWith">
@@ -59,23 +72,10 @@
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#isInterestOf">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
-        <owl:inverseOf rdf:resource="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#isInterestedIn"/>
         <rdfs:domain rdf:resource="http://dbpedia.org/ontology/Agent"/>
         <rdfs:domain rdf:resource="http://dbpedia.org/ontology/Place"/>
         <rdfs:domain rdf:resource="http://dbpedia.org/ontology/TopicalConcept"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#User"/>
-    </owl:ObjectProperty>
-    
-
-
-    <!-- http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#isInterestedIn -->
-
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#isInterestedIn">
-        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
-        <rdfs:domain rdf:resource="http://www.semanticweb.org/gokce/ontologies/2021/11/twitter-interests#User"/>
-        <rdfs:range rdf:resource="http://dbpedia.org/ontology/Agent"/>
-        <rdfs:range rdf:resource="http://dbpedia.org/ontology/Place"/>
-        <rdfs:range rdf:resource="http://dbpedia.org/ontology/TopicalConcept"/>
     </owl:ObjectProperty>
     
 
