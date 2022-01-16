@@ -53,7 +53,7 @@ subclasses = ['Person', 'Group', 'Organization', 'TopicalConcept']
 superclasses = ['Agent', 'TopicalConcept']
 classes = {'subclass': subclasses, 'superclass': superclasses}
 
-vector_path = Path(f'E:\\Asus-zenbook-d\\boun-phd\\fall21\\CMPE58H\\project\\ssw-project\\data\\vectors_{num_of_users}')
+vector_path = Path(f'..\data\\vectors_{num_of_users}')
 for name, class_ in classes.items(): 
 	interests_dict = {f'{base}{c}': {} for c in class_}
 	interests_ix_dict = {f'{base}{c}': {} for c in class_}
