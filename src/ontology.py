@@ -130,7 +130,6 @@ class Ontology:
       ?interest2 a ?interestType . 
       FILTER(?user1 != ?user2) .
     }}
-
     '''
     qres = self.query(q)
     return [(item.user1, item.interest1, item.user2, item.interest2, item.interestType) for item in qres]
@@ -160,6 +159,24 @@ class Ontology:
     qres = self.query(q)
     return [item.user for item in qres]
 
+  def get_interest_types(self):
+    q = f'''
+    prefix {ONTOLOGY_NAME}: <{str(self.ns_interests)}>
+
+    prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+    prefix owl: <http://www.w3.org/2002/07/owl#>
+
+    SELECT DISTINCT ?cls 
+    {{
+      ?cls rdfs:subClassOf ?sup . 
+      FILTER NOT EXISTS {{
+        ?sub rdfs:subClassOf ?cls FILTER(?sub != ?cls && ?sub != owl:Nothing ) 
+      }}
+    }}
+
+    '''
+    qres = self.query(q)
+    return [item.cls for item in qres if 'http://dbpedia.org/ontology/' in str(item.cls)]
 # ontology = Ontology('interests-v3.owl')
 # ontology.add_interaction('gokce', 'suzan', 1.0, 'mention')
 # ontology.add_interaction('gokce', 'idil', 0.1, 'retweet')
