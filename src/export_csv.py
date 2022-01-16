@@ -45,7 +45,7 @@ logging.basicConfig(format='%(asctime)s.%(msecs)03d %(levelname)s %(module)s - %
 size = 25000
 algorithm = 'rb_pots'
 interest_level = 'subclass'
-df_interests = pd.read_csv(f'..\data\\vectors_{size}\\{interest_level}\\interest_similarity.csv')
+df_interests = pd.read_csv(f'../data/vectors_{size}/{interest_level}/interest_similarity.csv')
 interest_dict = df_interests.groupby(['user1', 'user2'])['score'].mean().reset_index().set_index(['user1','user2']).to_dict()['score']
 
 all_pairs = set(mention_dict).union(set(retweet_dict)).union(set(interest_dict))
