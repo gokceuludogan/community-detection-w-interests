@@ -13,6 +13,9 @@ rdflib
 Scweet
 tweepy
 cdlib
+sklearn
+numpy
+streamlit
 ```
 
 Optional: `pydotplus` for visualizing ontology. 
@@ -36,18 +39,12 @@ Optional: `pydotplus` for visualizing ontology.
   python --method scaper --data keyword
   ```
   
-* Execute [DataProcessing notebook](notebooks/DataProcessing.ipynb) to merge tweets and extract users at least tweet three times containing keywords. 
+* Execute [DataProcessing notebook](notebooks/DataProcessing.ipynb) to merge tweets 
 
-#### Collect latest tweets of users
-
-```bash
-python --method tweepy --data user
-```
-
-#### Annotate Tweets with DBpedia & Wikidata 
+#### Annotate Tweets with DBpedia
 
 ```bash
-python tweet_processor.py --input tweets.csv --output annotated_tweets.csv
+python tweet_processor.py --input tweets.csv --output db_annotated_tweets.csv
 ```
 
 #### Prepare Data
@@ -61,6 +58,26 @@ python construct_graph.py
 ```
 
 ### Detect Communities
+
+#### Prepare weights
+
+```bash
+python prepare_input_graph.py
+```
+#### Run algorithm
 ```bash
 python community_detection.py
 ```
+
+### Results
+* Once communities are detected,
+  * Export csv files for importing Gephi.
+
+  ```bash
+  python export_csv.py
+  ```
+
+  * Run application showing the most important words for each community. 
+  ```bash
+  streamlit run app.py
+  ```
