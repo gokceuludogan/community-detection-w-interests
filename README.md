@@ -1,5 +1,6 @@
 # Twitter Community Detection Leveraging User Interests
 
+![pipeline](https://user-images.githubusercontent.com/9639399/155316439-6f6dfdd0-e354-4237-ac6b-6c15983c0291.png)
 
 ## Requirements
 
@@ -73,11 +74,12 @@ python community_detection.py
 * Once communities are detected,
   * Export csv files for importing Gephi.
 
-  ```bash
-  python export_csv.py
-  ```
+    ```bash
+    python export_csv.py
+    ```
 
   * Run application showing the most important words for each community. 
-  ```bash
-  streamlit run app.py
-  ```
+    ```bash
+    streamlit run app.py
+    ```
+  
